@@ -1,0 +1,68 @@
+{
+    "type":"list",
+    "template": {
+        "type": "separate",
+        "layout": "0,0,2,4",
+        "color": "msx-glass"
+    },
+    "items": [
+        {
+            "badgeColor": "msx-blue",
+            "title": "Kaimynai",
+            "action": "video:https://streamtape.com/get_video?id=m9POwMdzKKibYGA&expires=1704137793&ip=GHusERWnDS9X&token=vzUsyqulOBWC&stream=1",
+            "image": "https://image.tmdb.org/t/p/w185/ukhbDB4hvCbx3HBsEVL65w9NP2k.jpg",
+            "badge": "2020 "
+        },
+        {
+            "badgeColor": "msx-blue",
+            "title": "Geriausios. Kalėdos. Iš visų!",
+            "action": "video:https://streamtape.com/get_video?id=VmBMzJ4W3WIk6w&expires=1704140754&ip=GHusERWnDS9X&token=bLQ4MdzOSkbS&stream=1",
+            "image": "https://image.tmdb.org/t/p/w185/yNPgjXeeb7vdNI7AQB5SWkkk6si.jpg",
+            "badge": "2023 "
+        },
+        {
+            "badgeColor": "msx-blue",
+            "title": "Laidotuvės",
+            "action": "video:https://streamtape.com/get_video?id=LpwzpJjRDgcR1vD&expires=1704181190&ip=GHusERWnDS9X&token=EMzTaBhvXc3Z&stream=1",
+            "image": "https://image.tmdb.org/t/p/w185/9ssNSfNKpzZwhbFsnW3wa82m2sG.jpg",
+            "badge": "2023 LT"
+        },
+        {
+            "badgeColor": "msx-blue",
+            "title": "Nieko asmeniško",
+            "action": "video:https://streamtape.com/get_video?id=O4jkrqzxyGfZPdV&expires=1704181343&ip=GHusERWnDS9X&token=9OxKSnxN17YD&stream=1",
+            "image": "https://image.tmdb.org/t/p/w185/4K7gQjD19CDEPd7A9KZwr2D9Nco.jpg",
+            "badge": "2023 LT"
+        },
+        {
+            "badgeColor": "msx-blue",
+            "title": "Pietų parkas: prisijungimas prie Panderverse",
+            "action": "video:https://streamtape.com/get_video?id=q3oDXpD1oOTK6r&expires=1704181439&ip=GHusERWnDS9X&token=oDpwVL4z7PQW&stream=1",
+            "image": "https://image.tmdb.org/t/p/w185/18IsRVfs5MkkTcqTGlUAnka6sCh.jpg",
+            "badge": "2023 LT"
+        },
+        {
+            "badgeColor": "msx-blue",
+            "title": "Žmogus-Voras: Į naują visatą",
+            "action": "video:https://streamtape.com/get_video?id=eqd4xKmMMySYGVl&expires=1704180846&ip=GHusERWnDS9X&token=Aqcaz_QWTW4r&stream=1",
+            "image": "https://image.tmdb.org/t/p/w185/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg",
+            "badge": "2018 LT"
+        },
+        {
+            "badgeColor": "msx-blue",
+            "title": "Monstrų Biuras",
+            "action": "video:https://streamtape.com/get_video?id=Kz2Ov8J8PKHbM6&expires=1704181722&ip=GHusERWnDS9X&token=sG5d8Xvl_3Xd&stream=1",
+            "image": "https://image.tmdb.org/t/p/w185/sgheSKxZkttIe8ONsf2sWXPgip3.jpg",
+            "badge": "2001 LT"
+        },
+        
+        {
+            "badgeColor": "msx-blue",
+            "title": "Aukštyn",
+            "action": "video:https://streamtape.com/get_video?id=oDGLGk7ALJuJlwx&expires=1704181846&ip=GHusERWnDS9X&token=o8VMiQnxJvKQ&stream=1",
+            "image": "https://image.tmdb.org/t/p/w185/eAdO0qa9m0NFSVLZ26PvCwmPlsr.jpg",
+            "badge": "2009 LT"
+        }
+    ]
+
+}

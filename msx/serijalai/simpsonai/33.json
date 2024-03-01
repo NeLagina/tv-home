@@ -1,0 +1,146 @@
+{
+    "type":"list",
+    "template": {
+        "type": "separate",
+        "layout": "0,0,2,4",
+        "color": "msx-glass"
+    },
+    "items": [
+        {
+            "badgeColor": "msx-blue",
+            "title": "Serija 22",
+            "action": "video:https://w1041dc.video-delivery.net/u5kjzsodslg3sdgge44eyn2dj54jnrj5jsil4ptsiyw2p2kaj34lwsyj4fwa/rn0omtoelo~PJjPYl76NU?token=ux9ojxwhy019yst0hrbv73kk&expiry=1705956262724",
+            "image": "https://img.icdn.my.id/thumb/w_200/h_300/the-simpsons-season-33-1630851284.jpg",
+            "badge": "LT"
+        },
+        {
+            "badgeColor": "msx-blue",
+            "title": "Serija 21",
+            "action": "video:https://w1041dc.video-delivery.net/u5kjzsodslg3sdgge44eyn2dj54jnrj5jsil4ptsiyw2p2kaj34lwsyj4fwa/rn0omtoelo~PJjPYl76NU?token=ux9ojxwhy019yst0hrbv73kk&expiry=1705956262724",
+            "image": "https://img.icdn.my.id/thumb/w_200/h_300/the-simpsons-season-33-1630851284.jpg",
+            "badge": "LT"
+        },
+        {
+            "badgeColor": "msx-blue",
+            "title": "Serija 20",
+            "action": "video:https://pv1045gq.video-delivery.net/u5kjyowyt7g3sdgge4juyiypl5y3g6t54kcpg6lqfesnk5u3nquixmjkyf6a/xt7ogcbqa1~s7onoICCne?token=eex0rlncf7ruzwwb16vpnmjz&expiry=1705956381802",
+            "image": "https://img.icdn.my.id/thumb/w_200/h_300/the-simpsons-season-33-1630851284.jpg",
+            "badge": "LT"
+        },
+        {
+            "badgeColor": "msx-blue",
+            "title": "Serija 19",
+            "action": "video:https://imgsto.re/api/6/33-a/SFBC6gT91jtMJVsYZYH0iA/19/0096697/1705974421.mp4",
+            "image": "https://img.icdn.my.id/thumb/w_200/h_300/the-simpsons-season-33-1630851284.jpg",
+            "badge": "LT"
+        },{
+            "badgeColor": "msx-blue",
+            "title": "Serija 18",
+            "action": "video:https://imgsto.re/api/3/33-a/MjQOZZbTsx5Yzxc4tXtxrA/18/0096697/1705974485.mp4",
+            "image": "https://img.icdn.my.id/thumb/w_200/h_300/the-simpsons-season-33-1630851284.jpg",
+            "badge": "LT"
+        },{
+            "badgeColor": "msx-blue",
+            "title": "Serija 17",
+            "action": "video:https://imgsto.re/api/4/33-a/G1RRXUTgNsnjYAcUWE2lXg/17/0096697/1705974575.mp4",
+            "image": "https://img.icdn.my.id/thumb/w_200/h_300/the-simpsons-season-33-1630851284.jpg",
+            "badge": "LT"
+        },{
+            "badgeColor": "msx-blue",
+            "title": "Serija 16",
+            "action": "video:https://imgsto.re/api/4/33-a/G1RRXUTgNsnjYAcUWE2lXg/17/0096697/1705974575.mp4",
+            "image": "https://img.icdn.my.id/thumb/w_200/h_300/the-simpsons-season-33-1630851284.jpg",
+            "badge": "LT"
+        },{
+            "badgeColor": "msx-blue",
+            "title": "Serija 15",
+            "action": "video:https://ty1053vs.video-delivery.net/u5kjy3odhxg3sdgge4kes3spdv3znnp42afz54cxcvk4eslkcysbtuxmljyq/6r6xc2f7ch~zD8uzdo8s0?token=z1fbph116o4cgurannvnr6fl&expiry=1705957051032",
+            "image": "https://img.icdn.my.id/thumb/w_200/h_300/the-simpsons-season-33-1630851284.jpg",
+            "badge": "LT"
+        },{
+            "badgeColor": "msx-blue",
+            "title": "Serija 14",
+            "action": "video:https://imgsto.re/api/4/33-a/OQ7cDI-F9t5qjILFWjLV6A/14/0096697/1705975083.mp4",
+            "image": "https://img.icdn.my.id/thumb/w_200/h_300/the-simpsons-season-33-1630851284.jpg",
+            "badge": "LT"
+        },{
+            "badgeColor": "msx-blue",
+            "title": "Serija 13",
+            "action": "video:https://imgsto.re/api/4/33-a/2vB7xfH8ewMzpCKddeFKqA/13/0096697/1705975140.mp4",
+            "image": "https://img.icdn.my.id/thumb/w_200/h_300/the-simpsons-season-33-1630851284.jpg",
+            "badge": "LT"
+        },{
+            "badgeColor": "msx-blue",
+            "title": "Serija 12",
+            "action": "video:https://imgsto.re/api/4/33-a/m5YuqnvYPO9CV42L82N9Qw/12/0096697/1705975173.mp4",
+            "image": "https://img.icdn.my.id/thumb/w_200/h_300/the-simpsons-season-33-1630851284.jpg",
+            "badge": "LT"
+        },{
+            "badgeColor": "msx-blue",
+            "title": "Serija 11",
+            "action": "video:https://imgsto.re/api/1/33-a/ejB7NNYBmgZywtrc8rIoYQ/11/0096697/1705975205.mp4",
+            "image": "https://img.icdn.my.id/thumb/w_200/h_300/the-simpsons-season-33-1630851284.jpg",
+            "badge": "LT"
+        },{
+            "badgeColor": "msx-blue",
+            "title": "Serija 10",
+            "action": "video:https://oim152p.video-delivery.net/u5kj263qy7glsdgge7keojiyj2rrizqpago7uk2jqvh74m2factsmrvfe2zq/v2pjgcoyeu~rYpXwypwdh?token=zqei5eus93zrgdlm2ai8mx9y&expiry=1705956992811",
+            "image": "https://img.icdn.my.id/thumb/w_200/h_300/the-simpsons-season-33-1630851284.jpg",
+            "badge": "LT"
+        },{
+            "badgeColor": "msx-blue",
+            "title": "Serija 9",
+            "action": "video:https://imgsto.re/api/6/33-a/kYyhx7cB8qt6_hJcsJDYuw/9/0096697/1705975233.mp4",
+            "image": "https://img.icdn.my.id/thumb/w_200/h_300/the-simpsons-season-33-1630851284.jpg",
+            "badge": "LT"
+        },{
+            "badgeColor": "msx-blue",
+            "title": "Serija 8",
+            "action": "video:https://imgsto.re/api/3/33-a/yTrD2XjJ-TiGW2rdhArESg/8/0096697/1705975260.mp4",
+            "image": "https://img.icdn.my.id/thumb/w_200/h_300/the-simpsons-season-33-1630851284.jpg",
+            "badge": "LT"
+        },{
+            "badgeColor": "msx-blue",
+            "title": "Serija 7",
+            "action": "video:https://imgsto.re/api/6/33-a/xhTFL4lzBvCB8-O_1vZRWA/7/0096697/1705975285.mp4",
+            "image": "https://img.icdn.my.id/thumb/w_200/h_300/the-simpsons-season-33-1630851284.jpg",
+            "badge": "LT SIMP NETFLIX"
+        },{
+            "badgeColor": "msx-blue",
+            "title": "Serija 6",
+            "action": "video:https://imgsto.re/api/4/33-a/9tcnMShG9xbAVTKi8Blw8Q/6/0096697/1705975314.mp4",
+            "image": "https://img.icdn.my.id/thumb/w_200/h_300/the-simpsons-season-33-1630851284.jpg",
+            "badge": "LT SIMP NETFLIX"
+        },{
+            "badgeColor": "msx-blue",
+            "title": "Serija 5",
+            "action": "video:https://imgsto.re/api/1/33-a/td1q_uvV-quETmFVFIJl9g/5/0096697/1705975355.mp4",
+            "image": "https://img.icdn.my.id/thumb/w_200/h_300/the-simpsons-season-33-1630851284.jpg",
+            "badge": "LT "
+        },{
+            "badgeColor": "msx-blue",
+            "title": "Serija 4",
+            "action": "video:https://imgsto.re/api/1/33-a/gQt0rZjVR2OUza2k_VUJOw/4/0096697/1705975414.mp4",
+            "image": "https://img.icdn.my.id/thumb/w_200/h_300/the-simpsons-season-33-1630851284.jpg",
+            "badge": "LT "
+        },{
+            "badgeColor": "msx-blue",
+            "title": "Serija 3",
+            "action": "video:https://imgsto.re/api/3/33-a/fNr9mtKFboVJYz46SQeQMg/3/0096697/1705975444.mp4",
+            "image": "https://img.icdn.my.id/thumb/w_200/h_300/the-simpsons-season-33-1630851284.jpg",
+            "badge": "LT "
+        },{
+            "badgeColor": "msx-blue",
+            "title": "Serija 2",
+            "action": "video:https://imgsto.re/api/5/33-a/KAG71GXJsGVFvdi0Cc6e5Q/2/0096697/1705975497.mp4",
+            "image": "https://img.icdn.my.id/thumb/w_200/h_300/the-simpsons-season-33-1630851284.jpg",
+            "badge": "LT"
+        },{
+            "badgeColor": "msx-blue",
+            "title": "Serija 1",
+            "action": "video:https://imgsto.re/api/3/33-a/YQpjrP2PgB_5ldwjLJA5-Q/1/0096697/1705975520.mp4",
+            "image": "https://img.icdn.my.id/thumb/w_200/h_300/the-simpsons-season-33-1630851284.jpg",
+            "badge": "LT"
+        }
+    ]
+}

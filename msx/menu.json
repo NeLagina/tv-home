@@ -1,0 +1,77 @@
+{
+    "type": "list",
+    "headline": "'TIKRAI LEGALUS' FILMAI",
+    "menu": [
+        {
+            "style": "overlay",
+            "transparent": 2,
+            "label": "Pagrindinis",
+            "icon": "home",
+            "data": {
+                "type": "pages",
+                "template": {
+                    "icon": "panel",
+                    "color": "msx-glass"
+                },
+                "pages": [
+                    {
+                        "items": [
+                            {
+                                "type": "teaser",
+                                "layout": "0,0,11,5",
+                                "title": "'Tikrai Legalus' Filmai :)",
+                                "badge": "movie {ico:msx-red:movie}",
+                                "background": "https://images.hdqwalls.com/download/miles-morales-dynamic-presence-7x-1920x1080.jpg"
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "type": "separator",
+            "label": "FILMAI"
+        },
+        {
+            "icon": "movie",
+            "iconColor": "blue",
+            "label": "{col:msx-blue} Animacija",
+            "data": "http://192.168.1.174:8080/msx/filmai/animacija.json"
+        },
+        {
+            "icon": "movie",
+            "iconColor": "red",
+            "label": "{col:msx-red}Drama",
+            "data": "http://192.168.1.174:8080/msx/filmai/drama.json"
+        },
+        {
+            "icon": "movie",
+            "label": "{col:msx-yellow}Komedija",
+            "data": "http://192.168.1.174:8080/msx/filmai/komedija.json"
+            }
+        ,
+        {
+            "icon": "movie",
+            "label": "{col:msx-blue}Kriminalinei",
+            "data": "http://192.168.1.174:8080/msx/filmai/kriminalinei.json"
+        },
+        {
+            "type": "separator",
+            "label": "Serijalai"
+        },
+        {
+            "icon": "Serijali",
+            "label": "{col:msx-green}N",
+            "data": "http://192.168.1.174:8080/msx/serijalai/main.json"
+        }
+        ,
+        {
+            "type": "separator",
+            "label": "LIVE"
+        },
+        {
+            "icon": "Serijali",
+            "label": "{col:msx-green}N",
+            "data": "http://192.168.1.174:8080/msx/LIVE/main.json"
+        }
+    ]}

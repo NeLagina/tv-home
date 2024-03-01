@@ -1,0 +1,80 @@
+{
+  "type": "list",
+  "template": {
+    "type": "separate",
+    "layout": "0,0,2,4",
+    "color": "msx-glass"
+  },
+  "items": [
+    {
+      "badgeColor": "msx-blue",
+      "title": "Troliai 3",
+      "action": "video:https://imgsto.re/api/4/t/01/j6xtsHiV54F2L1E8dArLHQ/14362112/1705798510.mp4",
+      "image": "https://image.tmdb.org/t/p/w185/lxoPJR6eR5nd6nHSKIkEIV4FQWe.jpg",
+      "badge": "2023 LT"
+    },
+    {
+      "badgeColor": "msx-blue",
+      "title": "Leo",
+      "action": "video:https://imgsto.re/api/1/t/01/CoZc1mt132Oanv95wtPhSw/5755238/1705799715.mp4",
+      "image": "https://image.tmdb.org/t/p/w185/gSOVog7ydsaF1YpgAqBqnKYFGY.jpg",
+      "badge": "2023 LT"
+    },
+    {
+      "badgeColor": "msx-blue",
+      "title": "\u00c5\u00bdmogus-voras: aplink multivisat\u00c4\u2026",
+      "action": "video:https://streamtape.com/get_video?id=Bk3odQ972vHypk6&expires=1704180778&ip=GHusERWnDS9X&token=7bnCOmFbxJn_&stream=1",
+      "image": "https://image.tmdb.org/t/p/w185/8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg",
+      "badge": "2023 LT"
+    },
+    {
+      "badgeColor": "msx-blue",
+      "title": "\u00c5\u00bdmogus-Voras: \u00c4\u00ae nauj\u00c4\u2026 visat\u00c4\u2026",
+      "action": "video:https://streamtape.com/get_video?id=eqd4xKmMMySYGVl&expires=1704180846&ip=GHusERWnDS9X&token=Aqcaz_QWTW4r&stream=1",
+      "image": "https://image.tmdb.org/t/p/w185/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg",
+      "badge": "2018 LT"
+    },
+    {
+      "badgeColor": "msx-blue",
+      "title": "Piet\u00c5\u00b3 parkas: prisijungimas prie Panderverse",
+      "action": "video:https://streamtape.com/get_video?id=q3oDXpD1oOTK6r&expires=1704181439&ip=GHusERWnDS9X&token=oDpwVL4z7PQW&stream=1",
+      "image": "https://image.tmdb.org/t/p/w185/18IsRVfs5MkkTcqTGlUAnka6sCh.jpg",
+      "badge": "2023 LT"
+    },
+    {
+      "badgeColor": "msx-blue",
+      "title": "WALL-E. \u00c5\u00a0iuk\u00c5\u00a1li\u00c5\u00b3 princo istorija",
+      "action": "video:https://streamtape.com/get_video?id=RDyYW7oQajfdGJq&expires=1704181595&ip=GHusERWnDS9X&token=Dp2me7UZDLFj&stream=1",
+      "image": "https://image.tmdb.org/t/p/w185/hbhFnRzzg6ZDmm8YAmxBnQpQIPh.jpg",
+      "badge": "2008 LT"
+    },
+    {
+      "badgeColor": "msx-blue",
+      "title": "Monstr\u00c5\u00b3 Biuras",
+      "action": "video:https://streamtape.com/get_video?id=Kz2Ov8J8PKHbM6&expires=1704181722&ip=GHusERWnDS9X&token=sG5d8Xvl_3Xd&stream=1",
+      "image": "https://image.tmdb.org/t/p/w185/sgheSKxZkttIe8ONsf2sWXPgip3.jpg",
+      "badge": "2001 LT"
+    },
+    {
+      "badgeColor": "msx-blue",
+      "title": "\u00c5\u00bduviukas Nemo",
+      "action": "video:https://streamtape.com/get_video?id=O48YXkxweJHZ0ay&expires=1704181789&ip=GHusERWnDS9X&token=hjgleGLxH51N&stream=1",
+      "image": "https://image.tmdb.org/t/p/w185/wTLyzRc4Dr9dHgwh3EXUKnveA6Q.jpg",
+      "badge": "2003 LT"
+    },
+    {
+      "badgeColor": "msx-blue",
+      "title": "Auk\u00c5\u00a1tyn",
+      "action": "video:https://streamtape.com/get_video?id=oDGLGk7ALJuJlwx&expires=1704181846&ip=GHusERWnDS9X&token=o8VMiQnxJvKQ&stream=1",
+      "image": "https://image.tmdb.org/t/p/w185/eAdO0qa9m0NFSVLZ26PvCwmPlsr.jpg",
+      "badge": "2009 LT"
+    },
+    {
+      "badgeColor": "msx-blue",
+      "title": "Li\u00c5\u00abtas karalius",
+      "action": "video:https://streamtape.com/get_video?id=lOkdopXdmPs7r6e&expires=1704182032&ip=GHusERWnDS9X&token=XBfriDjEW67t&stream=1",
+      "image": "https://image.tmdb.org/t/p/w185/sKCr78MXSLixwmZ8DyJLrpMsd15.jpg",
+      "badge": "1994 LT"
+    }
+  ]
+}

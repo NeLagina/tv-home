@@ -1,0 +1,17 @@
+{
+    "type":"list",
+    "template": {
+        "type": "separate",
+        "layout": "0,0,2,4",
+        "color": "msx-glass"
+    },
+    "items": [
+        {
+            "badgeColor": "msx-blue",
+            "title": "Tavo laiminga diena (neveikia :( )",
+            "action": "video:https://streamtape.com/get_video?id=lqlr43OMbBt70O9&expires=1704142134&ip=GHusERWnDS9X&token=WLe_jIuUjR85&stream=1",
+            "image": "https://image.tmdb.org/t/p/w185/oDJ1Jl0vbbrsZd7HAMMmcY3rh7B.jpg",
+            "badge": "2023 "
+        }
+    ]
+}

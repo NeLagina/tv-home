@@ -1,0 +1,5 @@
+{
+    "name": "Filmai :D",
+    "version": "1.2.0",
+    "parameter": "menu:http://{SERVER}/msx/menu.json"
+}

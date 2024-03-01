@@ -1,0 +1,17 @@
+{
+    "type":"list",
+    "template": {
+        "type": "separate",
+        "layout": "0,0,2,4",
+        "color": "msx-glass"
+    },
+    "items": [
+        {
+            "badgeColor": "msx-blue",
+            "title": "Simpsonai",
+            "action": "content:http://0.0.0.0:8080/msx/serijalai/simpsonai/Simpson-main.json",
+            "image": "https://img.icdn.my.id/thumb/w_171/h_257/the-simpsons-season-30-26357.webp",
+            "badge": "ENGLISH maybe and more lithuanian stuff"
+        }
+    ]
+}
