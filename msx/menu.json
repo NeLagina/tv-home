@@ -36,24 +36,24 @@
             "icon": "movie",
             "iconColor": "blue",
             "label": "{col:msx-blue} Animacija",
-            "data": "http://192.168.1.174:8080/msx/filmai/animacija.json"
+            "data": "https://github.com/NeLagina/MediaSX-Home/blob/main/msx/filmai/animacija.json"
         },
         {
             "icon": "movie",
             "iconColor": "red",
             "label": "{col:msx-red}Drama",
-            "data": "http://192.168.1.174:8080/msx/filmai/drama.json"
+            "data": "https://github.com/NeLagina/MediaSX-Home/blob/main/msx/filmai/drama.json"
         },
         {
             "icon": "movie",
             "label": "{col:msx-yellow}Komedija",
-            "data": "http://192.168.1.174:8080/msx/filmai/komedija.json"
+            "data": "https://github.com/NeLagina/MediaSX-Home/blob/main/msx/filmai/komedija.json"
             }
         ,
         {
             "icon": "movie",
             "label": "{col:msx-blue}Kriminalinei",
-            "data": "http://192.168.1.174:8080/msx/filmai/kriminalinei.json"
+            "data": "https://github.com/NeLagina/MediaSX-Home/blob/main/msx/filmai/kriminalinei.json"
         },
         {
             "type": "separator",
@@ -62,7 +62,7 @@
         {
             "icon": "Serijali",
             "label": "{col:msx-green}N",
-            "data": "http://192.168.1.174:8080/msx/serijalai/main.json"
+            "data": "https://github.com/NeLagina/MediaSX-Home/blob/main/msx/serijalai/main.json"
         }
         ,
         {
@@ -72,6 +72,6 @@
         {
             "icon": "Serijali",
             "label": "{col:msx-green}N",
-            "data": "http://192.168.1.174:8080/msx/LIVE/main.json"
+            "data": "https://github.com/NeLagina/MediaSX-Home/blob/main/msx/LIVE/main.json"
         }
     ]}
