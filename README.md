@@ -8,7 +8,7 @@ Plan Languages English
  
  Navigate to Settings  Start Parameter  Setup.
  
- Enter the noted IP address `tv.nelagina.lt`
+ Enter the noted IP address `tv.nelagina.lt`(NOT A WEBSITE)
  
  # LT
  
@@ -16,7 +16,7 @@ Plan Languages English
  
  Eikite į Nustatymai Pradėti parametrų sąranką.
  
- Įveskite nurodytą IP adresą `tv.nelagina.lt`
+ Įveskite nurodytą IP adresą `tv.nelagina.lt` (TAI NE PUSLAPIS)
 
  # Atsisiųntimo nuorodos/Download Links
  
