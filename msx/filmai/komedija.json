@@ -66,9 +66,38 @@
         
         {
             "badgeColor": "msx-blue",
+            "title": "Garfildas",
+            "action": "video:https://imgsto.re/api/4/01/0XQM9nudDtyCVnI11Pfudg/0356634/1709427871.mp4",
+            "image": "https://image.tmdb.org/t/p/w185/5hKlKh62yIR03XHZxwFs3EaIFfD.jpg",
+            "badge": "2009 LT"
+        },
+        {
+            "badgeColor": "msx-blue",
             "title": "Garfildas 2",
-            "action": "video:https://srv9.filmax.live/videos/LTPro_Garfield_A_Tail_Of_Two_Kitties_2006_BDRip.mp4",
+            "action": "video:https://imgsto.re/api/4/01/BMqWtllI7xLykaVHSdEiPw/0455499/1709427937.mp4",
             "image": "https://image.tmdb.org/t/p/w185/eAdO0qa9m0NFSVLZ26PvCwmPlsr.jpg",
+            "badge": "2009 LT"
+        }
+        ,
+        {
+            "badgeColor": "msx-blue",
+            "title": "Alvinas ir burundukai",
+            "action": "video:https://imgsto.re/api/4/be/_Les_nPkIoilu1i2iQ83Iw/0952640/1709427974.mp4",
+            "image": "https://image.tmdb.org/t/p/w185/fONOOf3RmWnCKFwSl9e0z61KlZs.jpg",
+            "badge": "2009 LT"
+        },
+        {
+            "badgeColor": "msx-blue",
+            "title": "Alvinas ir burundukai 2",
+            "action": "video:https://imgsto.re/api/4/be/Zpf5DhJu5HV5uNK1-KGaXA/1231580/1709428021.mp4",
+            "image": "https://image.tmdb.org/t/p/w185/8mdPqOga5fty15nXmaNcK1fsNMa.jpg",
+            "badge": "2009 LT"
+        },
+        {
+            "badgeColor": "msx-blue",
+            "title": "Alvinas ir burundukai 3",
+            "action": "video:https://imgsto.re/api/4/01/byF4NxCsveXs8mpFg5NTQQ/1615918/1709428070.mp4",
+            "image": "https://image.tmdb.org/t/p/w185/jm2cEy9A8EIvTcUHcNqGPEbN2lo.jpg",
             "badge": "2009 LT"
         }
     ]
