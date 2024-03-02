@@ -1,5 +1,7 @@
 {
     "type": "list",
+    "logo": "https://37.16.75.45/img/8l2.png",   
+    "logoSize": "small", 
     "headline": "'TIKRAI LEGALUS' FILMAI",
     "menu": [
         {
@@ -70,8 +72,8 @@
             "label": "LIVE"
         },
         {
-            "icon": "Serijali",
-            "label": "{col:msx-green}N",
+            "icon": "",
+            "label": "{col:msx-green} LT",
             "data": "https://nelagina.github.io/tv-home/msx/LIVE/main.json"
         }
     ]}
