@@ -12,6 +12,13 @@
             "action": "content:https://nelagina.github.io/tv-home/msx/serijalai/simpsonai/Simpson-main.json",
             "image": "https://img.icdn.my.id/thumb/w_171/h_257/the-simpsons-season-30-26357.webp",
             "badge": "ENGLISH maybe and more lithuanian stuff"
+        },
+        {
+            "badgeColor": "msx-blue",
+            "title": "Rick and Morty",
+            "action": "content:https://nelagina.github.io/tv-home/msx/serijalai/rickandmorty/rick-main.json",
+            "image": "https://img.icdn.my.id/thumb/w_171/h_257/the-simpsons-season-30-26357.webp",
+            "badge": "gali buti angliskai arba ne nzn"
         }
     ]
 }

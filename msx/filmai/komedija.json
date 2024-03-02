@@ -62,7 +62,14 @@
             "action": "video:https://streamtape.com/get_video?id=oDGLGk7ALJuJlwx&expires=1704181846&ip=GHusERWnDS9X&token=o8VMiQnxJvKQ&stream=1",
             "image": "https://image.tmdb.org/t/p/w185/eAdO0qa9m0NFSVLZ26PvCwmPlsr.jpg",
             "badge": "2009 LT"
+        },
+        
+        {
+            "badgeColor": "msx-blue",
+            "title": "Garfildas 2",
+            "action": "video:https://srv9.filmax.live/videos/LTPro_Garfield_A_Tail_Of_Two_Kitties_2006_BDRip.mp4",
+            "image": "https://image.tmdb.org/t/p/w185/eAdO0qa9m0NFSVLZ26PvCwmPlsr.jpg",
+            "badge": "2009 LT"
         }
     ]
-
 }
