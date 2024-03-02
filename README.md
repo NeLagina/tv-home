@@ -4,12 +4,17 @@ Plan Languages English
 
  EN
  Install and launch the Media Station X application.
+ 
  Navigate to Settings  Start Parameter  Setup.
+ 
  Enter the noted IP address `tv.nelagina.lt`
  
  LT
+ 
  Įdiekite ir paleiskite programą Media Station X.
+ 
  Eikite į Nustatymai Pradėti parametrų sąranką.
+ 
  Įveskite nurodytą IP adresą `tv.nelagina.lt`
 
  Atsisiųntimo nuorodos/Donwload Links
