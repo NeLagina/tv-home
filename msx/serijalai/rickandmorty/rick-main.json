@@ -54,15 +54,15 @@
                 "badgeColor": "msx-blue",
                 "title": "{col:msx-blue} Season 7",
                 "action": "content:https://nelagina.github.io/tv-home/msx/serijalai/rickandmorty/7.json",
-                "image": "https://image.tmdb.org/t/p/w185/xOSKU3rvKiKFdKgIs0y6n3zscBJ.jpg",
+                "image": "https://image.tmdb.org/t/p/w185/OXy96OFiLDZIz9jT4Byxk1Hk6b.jpg",
                 "badge": "2021 LT"
             },
             {
                 "badgeColor": "msx-blue",
                 "title": "{col:msx-blue} Season 8",
                 "action": "alert: dar nera :(",
-                "image": "https://image.tmdb.org/t/p/w185/xOSKU3rvKiKFdKgIs0y6n3zscBJ.jpg",
-                "badge": "2021 LT"
+                "image": "https://static.wikia.nocookie.net/rickandmorty/images/e/e3/No_Image.png/revision/latest?cb=20160908213759",
+                "badge": "Not released"
             }
         ]
     }
