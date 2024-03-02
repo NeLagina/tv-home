@@ -18,7 +18,7 @@ Plan Languages English
  
  Įveskite nurodytą IP adresą `tv.nelagina.lt`
 
- # Atsisiųntimo nuorodos/Donwload Links
+ # Atsisiųntimo nuorodos/Download Links
  
  **Google play (Samsung)** https://play.google.com/store/apps/details?id=de.benzac.msx
  
