@@ -26,5 +26,5 @@ Plan Languages English
  
  **Microsoft (Windows 10/11)** https://apps.microsoft.com/detail/9p4z98mljplz
 
-Other ways to donwload Media Station 
- > https://msx.benzac.de/info/?tab=PlatformSupport
+>Other ways to donwload Media Station 
+ https://msx.benzac.de/info/?tab=PlatformSupport
