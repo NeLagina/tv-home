@@ -32,28 +32,28 @@
             {
                 "badgeColor": "msx-blue",
                 "title": "{col:msx-blue} Season 4",
-                "action": "content:https://nelagina.github.io/tv-home/msx/serijalai/rickandmorty/3.json",
-                "image": "https://image.tmdb.org/t/p/w185/xOSKU3rvKiKFdKgIs0y6n3zscBJ.jpg",
+                "action": "content:https://nelagina.github.io/tv-home/msx/serijalai/rickandmorty/4.json",
+                "image": "https://image.tmdb.org/t/p/w185/ylL3eViYKBhtjaqVe4pLMslVBjR.jpg",
                 "badge": "2021 LT"
             },
             {
                 "badgeColor": "msx-blue",
                 "title": "{col:msx-blue} Season 5",
-                "action": "content:https://nelagina.github.io/tv-home/msx/serijalai/rickandmorty/3.json",
-                "image": "https://image.tmdb.org/t/p/w185/xOSKU3rvKiKFdKgIs0y6n3zscBJ.jpg",
+                "action": "content:https://nelagina.github.io/tv-home/msx/serijalai/rickandmorty/5.json",
+                "image": "https://image.tmdb.org/t/p/w185/wwNZjZuBZy2oF5ovPiwAzNOmO3l.jpg",
                 "badge": "2021 LT"
             },
             {
                 "badgeColor": "msx-blue",
                 "title": "{col:msx-blue} Season 6",
-                "action": "content:https://nelagina.github.io/tv-home/msx/serijalai/rickandmorty/3.json",
-                "image": "https://image.tmdb.org/t/p/w185/xOSKU3rvKiKFdKgIs0y6n3zscBJ.jpg",
+                "action": "content:https://nelagina.github.io/tv-home/msx/serijalai/rickandmorty/6.json",
+                "image": "https://image.tmdb.org/t/p/w185/9fIjvbmrNblh4qm2OMZMes8fxFc.jpg",
                 "badge": "2021 LT"
             },
             {
                 "badgeColor": "msx-blue",
                 "title": "{col:msx-blue} Season 7",
-                "action": "content:https://nelagina.github.io/tv-home/msx/serijalai/rickandmorty/3.json",
+                "action": "content:https://nelagina.github.io/tv-home/msx/serijalai/rickandmorty/7.json",
                 "image": "https://image.tmdb.org/t/p/w185/xOSKU3rvKiKFdKgIs0y6n3zscBJ.jpg",
                 "badge": "2021 LT"
             },
