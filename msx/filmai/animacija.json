@@ -66,7 +66,7 @@
     },
     {
       "badgeColor": "msx-blue",
-      "title": "Li\u00c5\u00abtas karalius",
+      "title": "Liūtas karalius",
       "action": "video:https://imgsto.re/api/4/01/w2osKEQt9bt6MHiicU-Upg/0110357/1709406830.mp4",
       "image": "https://image.tmdb.org/t/p/w185/sKCr78MXSLixwmZ8DyJLrpMsd15.jpg",
       "badge": "1994 LT"
@@ -361,9 +361,9 @@
     {
       "badgeColor": "msx-red",
       "title": "I\u0161virk\u0161\u010dias pasaulis 2",
-      "action": "alert: nei\u0161leistas dar tai ....",
+      "action": "NERA DAR",
       "image": "https://www.imdb.com/title/tt22022452/mediaviewer/rm4228208385/?ref_=tt_ov_i",
-      "badge": "2024"
+      "badge": "Ne IŠLEISTAS "
     }
   ]
 }

@@ -54,7 +54,7 @@
         ,
         {
             "icon": "movie",
-            "label": "{col:msx-blue}Kriminalinei",
+            "label": "{col:msx-blue}Kriminaliniai",
             "data": "https://nelagina.github.io/tv-home/msx/filmai/kriminalinei.json"
         },
         {
