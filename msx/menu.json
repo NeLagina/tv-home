@@ -69,8 +69,13 @@
         },
         {
             "icon": "Serijali",
-            "label": "{col:msx-green}N",
-            "data": "https://nelagina.github.io/tv-home/msx/serijalai/main.json"
+            "label": "{col:msx-green}Lietuviški",
+            "data": "https://nelagina.github.io/tv-home/msx/serijalai/LT/main.json"
+        },
+        {
+            "icon": "Serijali",
+            "label": "{col:msx-green}English",
+            "data": "https://nelagina.github.io/tv-home/msx/serijalai/EN/main.json"
         }
         ,
         {

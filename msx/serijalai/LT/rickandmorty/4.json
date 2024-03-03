@@ -1,0 +1,81 @@
+{
+    "type": "list",
+    "template": {
+      "type": "separate",
+      "layout": "0,0,4.2,3",
+      "color": "msx-glass"
+    },
+    "items": [
+      {
+        "badgeColor": "msx-blue",
+        "title": "Serija 1",
+        "action": "video:https://srv9.filmax.live/videos/series/rickandmorty/rick.and.morty.s04e01.mp4",
+        "image": "https://image.tmdb.org/t/p/w300/hsRrS4E8WaxYPliG4XC2JTsIbwB.jpg",
+        "badge": "LT"
+      },
+      {
+        "badgeColor": "msx-blue",
+        "title": "Serija 2",
+        "action": "video:https://srv9.filmax.live/videos/series/rickandmorty/rick.and.morty.s04e02.mp4",
+        "image": "https://image.tmdb.org/t/p/w300/hsRrS4E8WaxYPliG4XC2JTsIbwB.jpg",
+        "badge": "LT"
+      },
+      {
+        "badgeColor": "msx-blue",
+        "title": "Serija 3",
+        "action": "video:https://srv9.filmax.live/videos/series/rickandmorty/rick.and.morty.s04e03.mp4",
+        "image": "https://image.tmdb.org/t/p/w300/hsRrS4E8WaxYPliG4XC2JTsIbwB.jpg",
+        "badge": "LT"
+      },
+      {
+        "badgeColor": "msx-blue",
+        "title": "Serija 4",
+        "action": "video:https://srv9.filmax.live/videos/series/rickandmorty/rick.and.morty.s04e04.mp4",
+        "image": "https://image.tmdb.org/t/p/w300/hsRrS4E8WaxYPliG4XC2JTsIbwB.jpg",
+        "badge": "LT"
+      },
+      {
+        "badgeColor": "msx-blue",
+        "title": "Serija 5",
+        "action": "video:https://srv9.filmax.live/videos/series/rickandmorty/rick.and.morty.s04e05.mp4",
+        "image": "https://image.tmdb.org/t/p/w300/hsRrS4E8WaxYPliG4XC2JTsIbwB.jpg",
+        "badge": "LT"
+      },
+      {
+        "badgeColor": "msx-blue",
+        "title": "Serija 6",
+        "action": "video:https://srv9.filmax.live/videos/series/rickandmorty/rick.and.morty.s04e06.mp4",
+        "image": "https://image.tmdb.org/t/p/w300/hsRrS4E8WaxYPliG4XC2JTsIbwB.jpg",
+        "badge": "LT"
+      },
+      {
+        "badgeColor": "msx-blue",
+        "title": "Serija 7",
+        "action": "video:https://srv9.filmax.live/videos/series/rickandmorty/rick.and.morty.s04e07.mp4",
+        "image": "https://image.tmdb.org/t/p/w300/hsRrS4E8WaxYPliG4XC2JTsIbwB.jpg",
+        "badge": "LT"
+      },
+      {
+        "badgeColor": "msx-blue",
+        "title": "Serija 8",
+        "action": "video:https://srv9.filmax.live/videos/series/rickandmorty/rick.and.morty.s04e08.mp4",
+        "image": "https://image.tmdb.org/t/p/w300/hsRrS4E8WaxYPliG4XC2JTsIbwB.jpg",
+        "badge": "LT"
+      },
+      {
+        "badgeColor": "msx-blue",
+        "title": "Serija 9",
+        "action": "video:https://srv9.filmax.live/videos/series/rickandmorty/rick.and.morty.s04e09.mp4",
+        "image": "https://image.tmdb.org/t/p/w300/hsRrS4E8WaxYPliG4XC2JTsIbwB.jpg",
+        "badge": "LT"
+      },
+      {
+        "badgeColor": "msx-blue",
+        "title": "Serija 10",
+        "action": "video:https://srv9.filmax.live/videos/series/rickandmorty/rick.and.morty.s04e10.mp4",
+        "image": "https://image.tmdb.org/t/p/w300/hsRrS4E8WaxYPliG4XC2JTsIbwB.jpg",
+        "badge": "LT"
+      }
+    ]
+  }
+  

@@ -1,0 +1,17 @@
+{
+    "type":"list",
+    "template": {
+        "type": "separate",
+        "layout": "0,0,2,4",
+        "color": "msx-glass"
+    },
+    "items": [
+        {
+            "badgeColor": "msx-blue",
+            "title": "Serija 1",
+            "action": "video:https://vidsrc.to/embed/movie/tt6718170",
+            "image": "https://image.tmdb.org/t/p/w185/oDJ1Jl0vbbrsZd7HAMMmcY3rh7B.jpg",
+            "badge": "2023 "
+        }
+    ]
+}

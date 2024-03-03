@@ -1,0 +1,33 @@
+
+    {
+        "type":"list",
+        "template": {
+            "type": "separate",
+            "layout": "0,0,2,4",
+            "color": "msx-glass"
+        },
+        "items": [
+            {
+                "badgeColor": "msx-blue",
+                "title": "{col:msx-blue} Season 35",
+                "action": "content:https://nelagina.github.io/tv-home/msx/serijalai/simpsonai/35.json",
+                "image": "https://img.icdn.my.id/thumb/w_171/h_257/the-simpsons-season-35-1630855834.webp",
+                "badge": ":O "
+            },
+            {
+                "badgeColor": "msx-blue",
+                "title": "{col:msx-blue} Season 34",
+                "action": "content:https://nelagina.github.io/tv-home/msx/serijalai/simpsonai/34.json",
+                "image": "https://img.icdn.my.id/thumb/w_171/h_257/the-simpsons-season-34-1630854158.webp",
+                "badge": ":O "
+            }
+            ,
+            {
+                "badgeColor": "msx-blue",
+                "title": "{col:msx-blue} Season 33",
+                "action": "content:https://nelagina.github.io/tv-home/msx/serijalai/simpsonai/33.json",
+                "image": "https://img.icdn.my.id/thumb/w_200/h_300/the-simpsons-season-33-1630851284.jpg",
+                "badge": "2021 LT"
+            }
+        ]
+    }
