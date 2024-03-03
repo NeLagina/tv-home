@@ -48,6 +48,12 @@
         },
         {
             "icon": "movie",
+            "label": "{col:msx-red}Veiksmo",
+            "data": "https://nelagina.github.io/tv-home/msx/filmai/veiksmo.json"
+            }
+        ,
+        {
+            "icon": "movie",
             "label": "{col:msx-yellow}Komedija",
             "data": "https://nelagina.github.io/tv-home/msx/filmai/komedija.json"
             }

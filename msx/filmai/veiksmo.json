@@ -1,0 +1,31 @@
+{
+    "type":"list",
+    "template": {
+        "type": "separate",
+        "layout": "0,0,2,4",
+        "color": "msx-glass"
+    },
+    "items": [
+        {
+            "badgeColor": "msx-blue",
+            "title": "Bėgantis labirintu",
+            "action": "video:https://imgsto.re/api/3/be/oWRtdnIWF29_yoZntVWtUg/1790864/1709520875.mp4",
+            "image": "https://image.tmdb.org/t/p/w185/ode14q7WtDugFDp78fo9lCsmay9.jpg",
+            "badge": "2014 "
+        },
+        {
+            "badgeColor": "msx-blue",
+            "title": "Bėgantis labirintu: išmėginimai ugnimi",
+            "action": "video:https://imgsto.re/api/2/be/xXZuHrLy6UPAiAsPUotOMQ/4046784/1709520930.mp4",
+            "image": "https://image.tmdb.org/t/p/w185/mYw7ZyejqSCPFlrT2jHZOESZDU3.jpg",
+            "badge": "2015 "
+        },
+        {
+            "badgeColor": "msx-blue",
+            "title": "Bėgantis labirintu: vaistai nuo mirties",
+            "action": "video:https://imgsto.re/api/2/01/qS-_5KJVBNqdl4XG8F9gyg/4500922/1709520983.mp4",
+            "image": "https://image.tmdb.org/t/p/w185/2zYfzA3TBwrMC8tfFbpiTLODde0.jpg",
+            "badge": "2018 "
+        }
+    ]
+}
