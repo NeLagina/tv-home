@@ -76,6 +76,14 @@
             "action": "Error: nieko dar nedariau :(",
             "image": "https://image.tmdb.org/t/p/w185/sDb72CQX5Q8v0EPnjbVjEueiCo7.jpg",
             "badge": "Coming Soon"
+        },
+        
+        {
+            "badgeColor": "msx-blue",
+            "title": "Mirties sąrašas",
+            "action": "Error: nieko dar nedariau :(",
+            "image": "https://image.tmdb.org/t/p/w185/ujVz6YZxBkDsw3wanO2AKhl3A9y.jpg",
+            "badge": "Coming Soon"
         }
     
     ]
