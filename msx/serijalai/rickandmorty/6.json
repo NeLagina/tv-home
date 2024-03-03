@@ -10,70 +10,70 @@
         "badgeColor": "msx-blue",
         "title": "Serija 1",
         "action": "video:https://srv9.filmax.live/videos/series/rickandmorty/rick.and.morty.s06e01.mp4",
-        "image": "https://image.tmdb.org/t/p/w185/9fIjvbmrNblh4qm2OMZMes8fxFc.jpg",
+        "image": "https://image.tmdb.org/t/p/w300/erpChhl0uknAvYsEC3zq7abbXeb.jpg",
         "badge": "LT"
       },
       {
         "badgeColor": "msx-blue",
         "title": "Serija 2",
         "action": "video:https://srv9.filmax.live/videos/series/rickandmorty/rick.and.morty.s06e02.mp4",
-        "image": "https://image.tmdb.org/t/p/w185/9fIjvbmrNblh4qm2OMZMes8fxFc.jpg",
+        "image": "https://image.tmdb.org/t/p/w300/erpChhl0uknAvYsEC3zq7abbXeb.jpg",
         "badge": "LT"
       },
       {
         "badgeColor": "msx-blue",
         "title": "Serija 3",
         "action": "video:https://srv9.filmax.live/videos/series/rickandmorty/rick.and.morty.s06e03.mp4",
-        "image": "https://image.tmdb.org/t/p/w185/9fIjvbmrNblh4qm2OMZMes8fxFc.jpg",
+        "image": "https://image.tmdb.org/t/p/w300/erpChhl0uknAvYsEC3zq7abbXeb.jpg",
         "badge": "LT"
       },
       {
         "badgeColor": "msx-blue",
         "title": "Serija 4",
         "action": "video:https://srv9.filmax.live/videos/series/rickandmorty/rick.and.morty.s06e04.mp4",
-        "image": "https://image.tmdb.org/t/p/w185/9fIjvbmrNblh4qm2OMZMes8fxFc.jpg",
+        "image": "https://image.tmdb.org/t/p/w300/erpChhl0uknAvYsEC3zq7abbXeb.jpg",
         "badge": "LT"
       },
       {
         "badgeColor": "msx-blue",
         "title": "Serija 5",
         "action": "video:https://srv9.filmax.live/videos/series/rickandmorty/rick.and.morty.s06e05.mp4",
-        "image": "https://image.tmdb.org/t/p/w185/9fIjvbmrNblh4qm2OMZMes8fxFc.jpg",
+        "image": "https://image.tmdb.org/t/p/w300/erpChhl0uknAvYsEC3zq7abbXeb.jpg",
         "badge": "LT"
       },
       {
         "badgeColor": "msx-blue",
         "title": "Serija 6",
         "action": "video:https://srv9.filmax.live/videos/series/rickandmorty/rick.and.morty.s06e06.mp4",
-        "image": "https://image.tmdb.org/t/p/w185/9fIjvbmrNblh4qm2OMZMes8fxFc.jpg",
+        "image": "https://image.tmdb.org/t/p/w300/erpChhl0uknAvYsEC3zq7abbXeb.jpg",
         "badge": "LT"
       },
       {
         "badgeColor": "msx-blue",
         "title": "Serija 7",
         "action": "video:https://srv9.filmax.live/videos/series/rickandmorty/rick.and.morty.s06e07.mp4",
-        "image": "https://image.tmdb.org/t/p/w185/9fIjvbmrNblh4qm2OMZMes8fxFc.jpg",
+        "image": "https://image.tmdb.org/t/p/w300/erpChhl0uknAvYsEC3zq7abbXeb.jpg",
         "badge": "LT"
       },
       {
         "badgeColor": "msx-blue",
         "title": "Serija 8",
         "action": "video:https://srv9.filmax.live/videos/series/rickandmorty/rick.and.morty.s06e08.mp4",
-        "image": "https://image.tmdb.org/t/p/w185/9fIjvbmrNblh4qm2OMZMes8fxFc.jpg",
+        "image": "https://image.tmdb.org/t/p/w300/erpChhl0uknAvYsEC3zq7abbXeb.jpg",
         "badge": "LT"
       },
       {
         "badgeColor": "msx-blue",
         "title": "Serija 9",
         "action": "video:https://srv9.filmax.live/videos/series/rickandmorty/rick.and.morty.s06e09.mp4",
-        "image": "https://image.tmdb.org/t/p/w185/9fIjvbmrNblh4qm2OMZMes8fxFc.jpg",
+        "image": "https://image.tmdb.org/t/p/w300/erpChhl0uknAvYsEC3zq7abbXeb.jpg",
         "badge": "LT"
       },
       {
         "badgeColor": "msx-blue",
         "title": "Serija 10",
         "action": "video:https://srv9.filmax.live/videos/series/rickandmorty/rick.and.morty.s06e10.mp4",
-        "image": "https://image.tmdb.org/t/p/w185/9fIjvbmrNblh4qm2OMZMes8fxFc.jpg",
+        "image": "https://image.tmdb.org/t/p/w300/erpChhl0uknAvYsEC3zq7abbXeb.jpg",
         "badge": "LT"
       }
     ]
