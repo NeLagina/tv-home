@@ -60,7 +60,7 @@
             {
                 "badgeColor": "msx-blue",
                 "title": "{col:msx-blue} Season 8",
-                "action": "alert: dar nera :(",
+                "action": "error: Neišleista :(",
                 "image": "https://static.wikia.nocookie.net/rickandmorty/images/e/e3/No_Image.png/revision/latest?cb=20160908213759",
                 "badge": "Not released"
             }
