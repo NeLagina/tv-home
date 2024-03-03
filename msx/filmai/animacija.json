@@ -15,58 +15,56 @@
     },
     {
       "badgeColor": "msx-blue",
-
-      "title": "Žmogus-voras: aplink multivisatą",
+      "title": "\u00c5\u00bdmogus-voras: aplink multivisat\u00c4\u2026",
       "action": "video:https://imgsto.re/api/3/t/01/m_uRWvN0VIVCtnXY1vXeeQ/9362722/1709406580.mp4",
       "image": "https://image.tmdb.org/t/p/w185/8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg",
       "badge": "2023 LT"
     },
     {
       "badgeColor": "msx-blue",
-      "title": "Žmogus-voras: Į naują visatą",
+      "title": "\u00c5\u00bdmogus-voras: \u00c4\u00ae nauj\u00c4\u2026 visat\u00c4\u2026",
       "action": "video:https://imgsto.re/api/3/01/l4LzwYvyc9asfa_N-EjKng/4633694/1709406621.mp4",
       "image": "https://image.tmdb.org/t/p/w185/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg",
       "badge": "2018 LT"
     },
     {
       "badgeColor": "msx-blue",
- 
-      "title": "Pietų parkas: prisijungimas prie Panderverse",
+      "title": "Piet\u00c5\u00b3 parkas: prisijungimas prie Panderverse",
       "action": "video:https://imgsto.re/api/4/t/01/0QdzG-0oO_zFbuf4Ro120Q/29474455/1709406706.mp4",
       "image": "https://image.tmdb.org/t/p/w185/18IsRVfs5MkkTcqTGlUAnka6sCh.jpg",
       "badge": "2023 LT"
     },
     {
       "badgeColor": "msx-blue",
-      "title": "WALL-E. šiukšlių princo istorija",
+      "title": "WALL-E. \u00c5\u00a1iuk\u00c5\u00a1li\u00c5\u00b3 princo istorija",
       "action": "video:https://imgsto.re/api/3/01/0LYgxRhfgb_jWdFdB3Aqtg/0910970/1709406739.mp4",
       "image": "https://image.tmdb.org/t/p/w185/hbhFnRzzg6ZDmm8YAmxBnQpQIPh.jpg",
       "badge": "2008 LT"
     },
     {
       "badgeColor": "msx-blue",
-      "title": "Monstrų Biuras",
+      "title": "Monstr\u00c5\u00b3 Biuras",
       "action": "video:https://imgsto.re/api/4/01/vBnZ551F4GJs1DMU9hxGXA/0198781/1709406754.mp4",
       "image": "https://image.tmdb.org/t/p/w185/sgheSKxZkttIe8ONsf2sWXPgip3.jpg",
       "badge": "2001 LT"
     },
     {
       "badgeColor": "msx-blue",
-      "title": "žuviukas Nemo",
+      "title": "\u00c5\u00beuviukas Nemo",
       "action": "video:https://imgsto.re/api/4/01/2InA0lwYGoM6ueje7lS8Dg/0266543/1709406777.mp4",
       "image": "https://image.tmdb.org/t/p/w185/wTLyzRc4Dr9dHgwh3EXUKnveA6Q.jpg",
       "badge": "2003 LT"
     },
     {
       "badgeColor": "msx-blue",
-      "title": "Aukštyn",
+      "title": "Auk\u00c5\u00a1tyn",
       "action": "video:https://imgsto.re/api/2/01/6w5uBRCO8G-7p5zBfrTElw/1049413/1709406799.mp4",
       "image": "https://image.tmdb.org/t/p/w185/eAdO0qa9m0NFSVLZ26PvCwmPlsr.jpg",
       "badge": "2009 LT"
     },
     {
       "badgeColor": "msx-blue",
-      "title": "Liūtas karalius",
+      "title": "Li\u00c5\u00abtas karalius",
       "action": "video:https://imgsto.re/api/4/01/w2osKEQt9bt6MHiicU-Upg/0110357/1709406830.mp4",
       "image": "https://image.tmdb.org/t/p/w185/sKCr78MXSLixwmZ8DyJLrpMsd15.jpg",
       "badge": "1994 LT"
@@ -363,7 +361,14 @@
       "title": "I\u0161virk\u0161\u010dias pasaulis 2",
       "action": "NERA DAR",
       "image": "https://www.imdb.com/title/tt22022452/mediaviewer/rm4228208385/?ref_=tt_ov_i",
-      "badge": "Ne IŠLEISTAS "
+      "badge": "Ne I\u00c5\u00a0LEISTAS "
+    },
+    {
+      "badgeColor": "msx-blue",
+      "title": "Dainuok",
+      "action": "video:https://imgsto.re/api/4/01/TnCR3qozOMyW_k0rTPq_Cg/3470600/1709515723.mp4",
+      "image": "https://image.tmdb.org/t/p/w185/lW0kUtXTOVlHTVhDO2VzNBACAHX.jpg",
+      "badge": "2016"
     }
   ]
 }
