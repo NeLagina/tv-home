@@ -2,7 +2,7 @@
     "type":"list",
     "template": {
         "type": "separate",
-        "layout": "0,0,4.5,3",
+        "layout": "0,0,4.2,3",
         "color": "msx-glass"
     },
     "items": [
@@ -10,7 +10,7 @@
             "badgeColor": "msx-blue",
             "title": "Serija 22",
             "action": "video:https://w1041dc.video-delivery.net/u5kjzsodslg3sdgge44eyn2dj54jnrj5jsil4ptsiyw2p2kaj34lwsyj4fwa/rn0omtoelo~PJjPYl76NU?token=ux9ojxwhy019yst0hrbv73kk&expiry=1705956262724",
-            "image": "https://img.icdn.my.id/thumb/w_200/h_300/the-simpsons-season-33-1630851284.jpg",
+            "image": "https://image.tmdb.org/t/p/w300/iULRBbtS2QuTiZUPNwwzzSIotx8.jpg",
             "badge": "LT"
         },
         {
