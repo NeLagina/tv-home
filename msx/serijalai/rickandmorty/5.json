@@ -2,7 +2,7 @@
     "type": "list",
     "template": {
       "type": "separate",
-      "layout": "0,0,2,4",
+      "layout": "0,0,4.2,3",
       "color": "msx-glass"
     },
     "items": [
@@ -10,70 +10,70 @@
         "badgeColor": "msx-blue",
         "title": "Serija 1",
         "action": "video:https://srv9.filmax.live/videos/series/rickandmorty/rick.and.morty.s05e01.mp4",
-        "image": "https://image.tmdb.org/t/p/w185/wwNZjZuBZy2oF5ovPiwAzNOmO3l.jpg",
+        "image": "https://cdn.discordapp.com/attachments/1111339853439828119/1213961074680930364/image.png?ex=65f7605a&is=65e4eb5a&hm=56112fe8f62312a295f673c7de13ffc9cba615b333a3deb2932bc5ada0bbd86d&",
         "badge": "LT"
       },
       {
         "badgeColor": "msx-blue",
         "title": "Serija 2",
         "action": "video:https://srv9.filmax.live/videos/series/rickandmorty/rick.and.morty.s05e02.mp4",
-        "image": "https://image.tmdb.org/t/p/w185/wwNZjZuBZy2oF5ovPiwAzNOmO3l.jpg",
+        "image": "https://image.tmdb.org/t/p/w300/A9sCKnxgTTapzu307ybdXCJQEqD.jpg",
         "badge": "LT"
       },
       {
         "badgeColor": "msx-blue",
         "title": "Serija 3",
         "action": "video:https://srv9.filmax.live/videos/series/rickandmorty/rick.and.morty.s05e03.mp4",
-        "image": "https://image.tmdb.org/t/p/w185/wwNZjZuBZy2oF5ovPiwAzNOmO3l.jpg",
+        "image": "https://image.tmdb.org/t/p/w300/A9sCKnxgTTapzu307ybdXCJQEqD.jpg",
         "badge": "LT"
       },
       {
         "badgeColor": "msx-blue",
         "title": "Serija 4",
         "action": "video:https://srv9.filmax.live/videos/series/rickandmorty/rick.and.morty.s05e04.mp4",
-        "image": "https://image.tmdb.org/t/p/w185/wwNZjZuBZy2oF5ovPiwAzNOmO3l.jpg",
+        "image": "https://image.tmdb.org/t/p/w300/A9sCKnxgTTapzu307ybdXCJQEqD.jpg",
         "badge": "LT"
       },
       {
         "badgeColor": "msx-blue",
         "title": "Serija 5",
         "action": "video:https://srv9.filmax.live/videos/series/rickandmorty/rick.and.morty.s05e05.mp4",
-        "image": "https://image.tmdb.org/t/p/w185/wwNZjZuBZy2oF5ovPiwAzNOmO3l.jpg",
+        "image": "https://image.tmdb.org/t/p/w300/A9sCKnxgTTapzu307ybdXCJQEqD.jpg",
         "badge": "LT"
       },
       {
         "badgeColor": "msx-blue",
         "title": "Serija 6",
         "action": "video:https://srv9.filmax.live/videos/series/rickandmorty/rick.and.morty.s05e06.mp4",
-        "image": "https://image.tmdb.org/t/p/w185/wwNZjZuBZy2oF5ovPiwAzNOmO3l.jpg",
+        "image": "https://image.tmdb.org/t/p/w300/A9sCKnxgTTapzu307ybdXCJQEqD.jpg",
         "badge": "LT"
       },
       {
         "badgeColor": "msx-blue",
         "title": "Serija 7",
         "action": "video:https://srv9.filmax.live/videos/series/rickandmorty/rick.and.morty.s05e07.mp4",
-        "image": "https://image.tmdb.org/t/p/w185/wwNZjZuBZy2oF5ovPiwAzNOmO3l.jpg",
+        "image": "https://image.tmdb.org/t/p/w300/A9sCKnxgTTapzu307ybdXCJQEqD.jpg",
         "badge": "LT"
       },
       {
         "badgeColor": "msx-blue",
         "title": "Serija 8",
         "action": "video:https://srv9.filmax.live/videos/series/rickandmorty/rick.and.morty.s05e08.mp4",
-        "image": "https://image.tmdb.org/t/p/w185/wwNZjZuBZy2oF5ovPiwAzNOmO3l.jpg",
+        "image": "https://image.tmdb.org/t/p/w300/A9sCKnxgTTapzu307ybdXCJQEqD.jpg",
         "badge": "LT"
       },
       {
         "badgeColor": "msx-blue",
         "title": "Serija 9",
         "action": "video:https://srv9.filmax.live/videos/series/rickandmorty/rick.and.morty.s05e09.mp4",
-        "image": "https://image.tmdb.org/t/p/w185/wwNZjZuBZy2oF5ovPiwAzNOmO3l.jpg",
+        "image": "https://image.tmdb.org/t/p/w300/A9sCKnxgTTapzu307ybdXCJQEqD.jpg",
         "badge": "LT"
       },
       {
         "badgeColor": "msx-blue",
         "title": "Serija 10",
         "action": "video:https://srv9.filmax.live/videos/series/rickandmorty/rick.and.morty.s05e10.mp4",
-        "image": "https://image.tmdb.org/t/p/w185/wwNZjZuBZy2oF5ovPiwAzNOmO3l.jpg",
+        "image": "https://image.tmdb.org/t/p/w300/A9sCKnxgTTapzu307ybdXCJQEqD.jpg",
         "badge": "LT"
       }
     ]
