@@ -8,13 +8,6 @@
   "items": [
     {
       "badgeColor": "msx-blue",
-      "title": "Troliai 3",
-      "action": "video:https://imgsto.re/api/4/t/01/j6xtsHiV54F2L1E8dArLHQ/14362112/1705798510.mp4",
-      "image": "https://image.tmdb.org/t/p/w185/lxoPJR6eR5nd6nHSKIkEIV4FQWe.jpg",
-      "badge": "2023 LT"
-    },
-    {
-      "badgeColor": "msx-blue",
       "title": "Leo",
       "action": "video:https://imgsto.re/api/1/t/01/CoZc1mt132Oanv95wtPhSw/5755238/1705799715.mp4",
       "image": "https://image.tmdb.org/t/p/w185/gSOVog7ydsaF1YpgAqBqnKYFGY.jpg",
@@ -23,17 +16,14 @@
     {
       "badgeColor": "msx-blue",
 
-      "title": "\u00c5\u00bdmogus-voras: aplink multivisat\u00c4\u2026",
-      "action": "video:https://imgsto.re/api/3/t/01/m_uRWvN0VIVCtnXY1vXeeQ/9362722/1709406580.mp4",
-
       "title": "Žmogus-voras: aplink multivisatą",
-      "action": "video:https://srv9.filmax.live/videos2/LTMeg_Spider_Man_Across_the_Spider_Verse_2023_WEBRip.mp4",
+      "action": "video:https://imgsto.re/api/3/t/01/m_uRWvN0VIVCtnXY1vXeeQ/9362722/1709406580.mp4",
       "image": "https://image.tmdb.org/t/p/w185/8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg",
       "badge": "2023 LT"
     },
     {
       "badgeColor": "msx-blue",
-      "title": "\u00c5\u00bdmogus-Voras: \u00c4\u00ae nauj\u00c4\u2026 visat\u00c4\u2026",
+      "title": "Žmogus-voras: Į naują visatą",
       "action": "video:https://imgsto.re/api/3/01/l4LzwYvyc9asfa_N-EjKng/4633694/1709406621.mp4",
       "image": "https://image.tmdb.org/t/p/w185/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg",
       "badge": "2018 LT"
@@ -41,39 +31,35 @@
     {
       "badgeColor": "msx-blue",
  
-      "title": "Piet\u00c5\u00b3 parkas: prisijungimas prie Panderverse",
-      "action": "video:https://imgsto.re/api/4/t/01/0QdzG-0oO_zFbuf4Ro120Q/29474455/1709406706.mp4",
- 
       "title": "Pietų parkas: prisijungimas prie Panderverse",
-      "action": "video:https://srv9.filmax.live/videos2/LTMeg_South_Park_Joining_the_Panderverse_2023_WEBRip.mp4",
- 
+      "action": "video:https://imgsto.re/api/4/t/01/0QdzG-0oO_zFbuf4Ro120Q/29474455/1709406706.mp4",
       "image": "https://image.tmdb.org/t/p/w185/18IsRVfs5MkkTcqTGlUAnka6sCh.jpg",
       "badge": "2023 LT"
     },
     {
       "badgeColor": "msx-blue",
-      "title": "WALL-E. \u00c5\u00a0iuk\u00c5\u00a1li\u00c5\u00b3 princo istorija",
+      "title": "WALL-E. \u00c5\u00a0iukšlių princo istorija",
       "action": "video:https://imgsto.re/api/3/01/0LYgxRhfgb_jWdFdB3Aqtg/0910970/1709406739.mp4",
       "image": "https://image.tmdb.org/t/p/w185/hbhFnRzzg6ZDmm8YAmxBnQpQIPh.jpg",
       "badge": "2008 LT"
     },
     {
       "badgeColor": "msx-blue",
-      "title": "Monstr\u00c5\u00b3 Biuras",
+      "title": "Monstrų Biuras",
       "action": "video:https://imgsto.re/api/4/01/vBnZ551F4GJs1DMU9hxGXA/0198781/1709406754.mp4",
       "image": "https://image.tmdb.org/t/p/w185/sgheSKxZkttIe8ONsf2sWXPgip3.jpg",
       "badge": "2001 LT"
     },
     {
       "badgeColor": "msx-blue",
-      "title": "\u00c5\u00bduviukas Nemo",
+      "title": "žuviukas Nemo",
       "action": "video:https://imgsto.re/api/4/01/2InA0lwYGoM6ueje7lS8Dg/0266543/1709406777.mp4",
       "image": "https://image.tmdb.org/t/p/w185/wTLyzRc4Dr9dHgwh3EXUKnveA6Q.jpg",
       "badge": "2003 LT"
     },
     {
       "badgeColor": "msx-blue",
-      "title": "Auk\u00c5\u00a1tyn",
+      "title": "Aukštyn",
       "action": "video:https://imgsto.re/api/2/01/6w5uBRCO8G-7p5zBfrTElw/1049413/1709406799.mp4",
       "image": "https://image.tmdb.org/t/p/w185/eAdO0qa9m0NFSVLZ26PvCwmPlsr.jpg",
       "badge": "2009 LT"
@@ -263,7 +249,7 @@
     {
       "badgeColor": "msx-blue",
       "title": "Piet\u0173 parkas (netinka vaikams)",
-      "action": "video:https://srv9.filmax.live/videos2/LTMeg_South_Park_Not_Suitable_for_Children_2023_WEBRip.mp4?st=zrp8GYqdKBux2ggbCf11Ow",
+      "action": "video:https://imgsto.re/api/4/t/01/CgCkAS9gmefZbG-QfEHIBw/30505159/1709504474.mp4",
       "image": "https://image.tmdb.org/t/p/w185/kN5H9EhUqDWBAsbnbt2XNhS7BFe.jpg",
       "badge": "2023"
     },
