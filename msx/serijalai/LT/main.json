@@ -9,14 +9,14 @@
         {
             "badgeColor": "msx-red",
             "title": "Simpsonai",
-            "action": "content:https://nelagina.github.io/tv-home/msx/serijalai/simpsonai/Simpson-main.json",
+            "action": "content:https://nelagina.github.io/tv-home/msx/serijalai/LT/simpsonai/Simpson-main.json",
             "image": "https://img.icdn.my.id/thumb/w_171/h_257/the-simpsons-season-30-26357.webp",
             "badge": "Not full seasons"
         },
         {
             "badgeColor": "msx-green",
             "title": "Rick and Morty",
-            "action": "content:https://nelagina.github.io/tv-home/msx/serijalai/rickandmorty/rick-main.json",
+            "action": "content:https://nelagina.github.io/tv-home/msx/serijalai/LT/rickandmorty/rick-main.json",
             "image": "https://image.tmdb.org/t/p/w185/8BXUZ0nnR3DZsf30DYMFHfuTxxi.jpg",
             "badge": "FULL SEASONS"
         },
