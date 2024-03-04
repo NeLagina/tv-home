@@ -2,7 +2,7 @@
     "type": "list",
     "logo": "https://37.16.75.45/img/8l2.png",   
     "logoSize": "small", 
-    "headline": "'TIKRAI LEGALUS' FILMAI",
+    "headline": "'Tikrai Legalus' FILMAI",
     "menu": [
         {
             "style": "overlay",
@@ -20,10 +20,10 @@
                         "items": [
                             {
                                 "type": "teaser",
-                                "layout": "0,0,11,5",
+                                "layout": "0,0,9,6",
                                 "title": "'Tikrai Legalus' Filmai :)",
                                 "badge": "movie {ico:msx-red:movie}",
-                                "image": "https://image.tmdb.org/t/p/w300/c0lRqhm2GpaEPJ94ExvMKayuiCZ.jpg"
+                                "image": "https://i.ytimg.com/vi/vhxEW8NKboU/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBt6gi-2zk6-1mHwGFDxNoF0anUvA"
                             }
                         ]
                     }
