@@ -86,5 +86,22 @@
             "icon": "",
             "label": "{col:msx-green} LT",
             "data": "https://nelagina.github.io/tv-home/msx/LIVE/main.json"
+        },
+        {
+            "type": "separator",
+            "label": "Nustatymai/Settings"
+        },
+        {
+            "type": "settings"
+        },
+        {
+            "icon": "switch-account",
+            "label": "{col:msx-blue}Profiliai",
+            "data": "text:Greitu metu"
+        },
+        {
+            "icon": "subscriptions",
+            "label": "{col:msx-blue}Prenumeratos",
+            "data": "text:Greitu metu"
         }
     ]}
