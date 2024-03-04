@@ -29,6 +29,10 @@ Plan Languages English
 >Other ways to donwload Media Station 
  https://msx.benzac.de/info/?tab=PlatformSupport
 
+
+# Autorinės teisės / DMCA
+
+LT
 Visos nuotraukos, turinys ir filmai, rodomi „TV Home“, yra jų atitinkamų savininkų nuosavybė.
 
 Visos „TV Home“ esančios nuotraukos, turinys ir filmai buvo surinkti iš skirtingų viešų šaltinių, įskaitant įvairias svetaines, kurios laikomos viešosiomis. „TV Home“ nepretenduoja į visų išleistų vaizdų, turinio ir filmų išskirtines teises.
@@ -36,6 +40,8 @@ Visos „TV Home“ esančios nuotraukos, turinys ir filmai buvo surinkti iš sk
 Jei jums priklauso tam tikros medžiagos, pvz. paveikslėlių, tekstų ar video, autorių teisės ir norite, kad mes pašalintume ją iš mūsų puslapių, susisiekite su mumis ir per 5 darbo dienas mes visiškai pašalinsime turinį iš mūsų svetainės.
 
 Sukurk Github bileta jei kaškas tau priklauso ir tu nenori kad šitam Projekte butu
+
+EN
 
 All the pictures, Content And Movie shown on TV Home are the property of their respective owners.
 
