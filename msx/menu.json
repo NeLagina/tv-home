@@ -97,11 +97,11 @@
         {
             "icon": "switch-account",
             "label": "{col:msx-blue}Profiliai",
-            "data": "text:Greitu metu"
+            "action": "https://nelagina.github.io/tv-home/msx/serijalai/EN/main.json"
         },
         {
             "icon": "subscriptions",
             "label": "{col:msx-blue}Prenumeratos",
-            "data": "text:Greitu metu"
+            "action": "https://nelagina.github.io/tv-home/msx/serijalai/EN/main.json"
         }
     ]}
