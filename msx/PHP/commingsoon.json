@@ -1,0 +1,12 @@
+{
+    "upcoming_movies": [
+        {
+            "title": "Rick and morty soon :)",
+            "image": "https://cdn.discordapp.com/attachments/1214595775435120650/1214602493653418024/image.png?ex=65f9b5b8&is=65e740b8&hm=f2d9652393be9da6fa8ea8a32f423cdf698653abc0338beb497b515cd8b9601d&"
+        },
+        {
+            "title": "TEST",
+            "image": "https://image.tmdb.org/t/p/w300/bMoVrgArQrELqEKEqicMXMySCpT.jpg"
+        }
+    ]
+}

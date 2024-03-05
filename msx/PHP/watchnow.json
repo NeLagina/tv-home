@@ -1,0 +1,14 @@
+{
+    "movies": [
+        {
+            "title": "Megamaindas prieš Doom sindikatą",
+            "image": "https://image.tmdb.org/t/p/w300/pF6Uq95GiU4p7weUWjt9TYVNK4Y.jpg",
+            "video_url": "https://msx.benzac.de/media/video1.mp4"
+        },
+        {
+            "title": "Movie 2",
+            "image": "https://image.tmdb.org/t/p/w300/8KjQHJfqB32hnPyeBHbZBa57zn3.jpg",
+            "video_url": "https://msx.benzac.de/media/video2.mp4"
+        }
+    ]
+}

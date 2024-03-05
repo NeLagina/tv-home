@@ -5,33 +5,10 @@
     "headline": "'Tikrai Legalus' FILMAI",
     "menu": [
         {
-            "style": "overlay",
-            "transparent": 2,
-            "label": "'Tikrai Legalus' Filmai :)",
             "icon": "home",
-            "data": {
-                "type": "pages",
-                "template": {
-                    "icon": "panel",
-                    "color": "msx-glass",
-                    "type":"teaser"
-                },
-                "pages": [
-                    {
-                        "items": [
-                            {
-
-                                "layout": "0,0,10,4",
-                                "title": "Watch NOW"
-                            },
-                            {
-                                "layout": "2,3,2,2",
-                                "title": "Coming SOON"
-                            }
-                        ]
-                    }
-                ]
-            }
+            "iconColor": "green",
+            "label": "{col:msx-blue} Pagrindinis",
+            "data": "https://nelagina.github.io/tv-home/msx/php/watchnow.php" 
         },
         {
             "type": "separator",

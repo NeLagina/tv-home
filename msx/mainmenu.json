@@ -1,0 +1,26 @@
+{
+
+        "type": "pages",
+        "template": {
+            "icon": "panel",
+            "color": "msx-glass",
+            "type":"teaser"
+        },
+        "pages": [
+            {
+                "items": [
+                    {
+
+                        "layout": "0,0,15,4",
+                        "title": "",
+                        "image": ""
+                    },
+                    {
+                        "layout": "2,3,2,2",
+                        "title": "Coming SOON",
+                        "image":""
+                    }
+                ]
+            }
+        ]
+    }
