@@ -8,7 +8,7 @@
             "icon": "home",
             "iconColor": "green",
             "label": "{col:msx-blue} Pagrindinis",
-            "data": "https://nelagina.github.io/tv-home/msx/PHP/watchN.php" 
+            "data": "resolve:https://nelagina.github.io/tv-home/msx/PHP/watchN.php" 
         },
         {
             "type": "separator",
