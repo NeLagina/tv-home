@@ -1,0 +1,68 @@
+
+    {
+        "type":"list",
+        "template": {
+            "type": "separate",
+            "layout": "0,0,2,4",
+            "color": "msx-glass"
+        },
+        "items": [
+            {
+                "badgeColor": "msx-blue",
+                "title": "{col:msx-blue} Season 1",
+                "action": "content:https://nelagina.github.io/tv-home/msx/serijalai/LT/rickandmorty/1.json",
+                "image": "https://image.tmdb.org/t/p/w185/8BXUZ0nnR3DZsf30DYMFHfuTxxi.jpg",
+                "badge": ":O "
+            },
+            {
+                "badgeColor": "msx-blue",
+                "title": "{col:msx-blue} Season 2",
+                "action": "content:https://nelagina.github.io/tv-home/msx/serijalai/LT/rickandmorty/2.json",
+                "image": "https://image.tmdb.org/t/p/w185/xcYamBmQmSCpl9L1B5ihesnR1Gb.jpg",
+                "badge": ":O "
+            }
+            ,
+            {
+                "badgeColor": "msx-blue",
+                "title": "{col:msx-blue} Season 3",
+                "action": "content:https://nelagina.github.io/tv-home/msx/serijalai/LT/rickandmorty/3.json",
+                "image": "https://image.tmdb.org/t/p/w185/xOSKU3rvKiKFdKgIs0y6n3zscBJ.jpg",
+                "badge": "2021 LT"
+            },
+            {
+                "badgeColor": "msx-blue",
+                "title": "{col:msx-blue} Season 4",
+                "action": "content:https://nelagina.github.io/tv-home/msx/serijalai/LT/rickandmorty/4.json",
+                "image": "https://image.tmdb.org/t/p/w185/ylL3eViYKBhtjaqVe4pLMslVBjR.jpg",
+                "badge": "2021 LT"
+            },
+            {
+                "badgeColor": "msx-blue",
+                "title": "{col:msx-blue} Season 5",
+                "action": "content:https://nelagina.github.io/tv-home/msx/serijalai/LT/rickandmorty/5.json",
+                "image": "https://image.tmdb.org/t/p/w185/wwNZjZuBZy2oF5ovPiwAzNOmO3l.jpg",
+                "badge": "2021 LT"
+            },
+            {
+                "badgeColor": "msx-blue",
+                "title": "{col:msx-blue} Season 6",
+                "action": "content:https://nelagina.github.io/tv-home/msx/serijalai/LT/rickandmorty/6.json",
+                "image": "https://image.tmdb.org/t/p/w185/9fIjvbmrNblh4qm2OMZMes8fxFc.jpg",
+                "badge": "2021 LT"
+            },
+            {
+                "badgeColor": "msx-blue",
+                "title": "{col:msx-blue} Season 7",
+                "action": "content:https://nelagina.github.io/tv-home/msx/serijalai/LT/rickandmorty/7.json",
+                "image": "https://image.tmdb.org/t/p/w185/OXy96OFiLDZIz9jT4Byxk1Hk6b.jpg",
+                "badge": "2021 LT"
+            },
+            {
+                "badgeColor": "msx-blue",
+                "title": "{col:msx-blue} Season 8",
+                "action": "error: Neišleista :(",
+                "image": "https://static.wikia.nocookie.net/rickandmorty/images/e/e3/No_Image.png/revision/latest?cb=20160908213759",
+                "badge": "Not released"
+            }
+        ]
+    }
