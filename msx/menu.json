@@ -7,21 +7,26 @@
         {
             "style": "overlay",
             "transparent": 2,
-            "label": "Pagrindinis",
+            "label": "'Tikrai Legalus' Filmai :)",
             "icon": "home",
             "data": {
                 "type": "pages",
                 "template": {
                     "icon": "panel",
-                    "color": "msx-glass"
+                    "color": "msx-glass",
+                    "type":"teaser"
                 },
                 "pages": [
                     {
                         "items": [
                             {
-                                "type": "teaser",
-                                "layout": "0,0,5,6",
-                                "title": "'Tikrai Legalus' Filmai :)"
+
+                                "layout": "0,0,10,3",
+                                "title": "Watch NOW"
+                            },
+                            {
+                                "layout": "3,0,10,3",
+                                "title": "Coming SOON"
                             }
                         ]
                     }
