@@ -3,7 +3,7 @@
     "template": {
         "icon": "panel",
         "color": "msx-glass",
-        "layout": "0,0,0,0",
+        "layout": "0,0,1,1",
         "type":"teaser"
     },
     "items": [
