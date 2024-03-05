@@ -21,11 +21,11 @@
                         "items": [
                             {
 
-                                "layout": "0,0,10,3",
+                                "layout": "0,0,10,4",
                                 "title": "Watch NOW"
                             },
                             {
-                                "layout": "3,0,10,3",
+                                "layout": "1,0,2,2",
                                 "title": "Coming SOON"
                             }
                         ]
