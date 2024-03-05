@@ -1,9 +1,9 @@
 {
-    "type": "pages",
+    "type": "list",
     "template": {
         "icon": "panel",
         "color": "msx-glass",
-        "layout": "0,0,1,1",
+        "layout": "0,0,15,4",
         "type":"teaser"
     },
     "items": [
