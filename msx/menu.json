@@ -20,10 +20,8 @@
                         "items": [
                             {
                                 "type": "teaser",
-                                "layout": "0,0,12,6",
-                                "title": "'Tikrai Legalus' Filmai :)",
-                                "badge": "movie {ico:msx-red:movie}",
-                                "image": "https://i.ytimg.com/vi/vhxEW8NKboU/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBt6gi-2zk6-1mHwGFDxNoF0anUvA"
+                                "layout": "0,0,5,6",
+                                "title": "'Tikrai Legalus' Filmai :)"
                             }
                         ]
                     }
