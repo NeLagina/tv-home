@@ -28,7 +28,7 @@
     </head>
         <body>
 
-            <iframe src="https://vidsrc.to/embed/movie/tt6718170"  allowfullscreen></iframe>
+            <iframe src="https://doc.moplay.org/watch/?v122#cEh2RWppYmNHd01VZVRBR0dUSTBsSDE3dE1nekJwbG5JVGlyWkxYM3pZKzh2anhObDViZkpDbzUwZnJQckZtVlpoV1dDNlRmWGVEbQ"  allowfullscreen></iframe>
 
         
     <script type="text/javascript" src="//msx.benzac.de/js/tvx-plugin.min.js"></script>
@@ -43,12 +43,14 @@
                 };
                 this.play = function() {
                     //Play
+                    jwplay().play()
                 };
                 this.pause = function() {
                     //Pause
+                    jwplay().pause()
                 };
                 this.stop = function() {
-                    //Stop
+                    jwplay().pause()
                 };
                 this.getDuration = function() {
                     //Get duration in seconds
@@ -66,10 +68,11 @@
                 };
                 this.setVolume = function(volume) {
                     //Set volume (0 .. 100)
+                    jwplayer().setVolume(volume)
                 };
                 this.getVolume = function() {
                     //Get volume (0 .. 100)
-                    return 100;
+                    return jwplayer().getVolume();
                 };
                 this.setMuted = function(muted) {
                     //Set muted
