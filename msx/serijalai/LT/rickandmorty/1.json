@@ -9,7 +9,7 @@
       {
         "badgeColor": "msx-blue",
         "title": "TEST",
-        "action": "video:https://vidsrc.to/embed/movie/tt6718170",
+        "action": "video:plugin:https://vidsrc.to/embed/movie/tt6718170",
         "image": "https://cdn.discordapp.com/attachments/1214595775435120650/1214601673021063168/image.png?ex=65f9b4f5&is=65e73ff5&hm=99083aa63df44f5b80fca394a85a3798954d634a518f353a0fae1d24eace9834&",
         "playerLabel": "test"
       },
