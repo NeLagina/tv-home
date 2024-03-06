@@ -86,7 +86,7 @@
         },
         {
             "icon": "info",
-            "label": "{col:msx-red} Copyright /DMCA",
+            "label": "{col:msx-Blue} Credits /Kreditai",
             "data": "https://nelagina.github.io/tv-home/msx/DMCA.json"
         }
     ]}
