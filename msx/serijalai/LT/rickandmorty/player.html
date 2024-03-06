@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style type="text/css">           
+        h1 {
+            font-family: sans-serif;
+            color: white;
+        }  
+    </style>
+    </head>
+        <body>
+        <video src="https://imgsto.re/api/2/7-a/Eb7CaxbAsSOjYk54vz-SYQ/1/2861424/1709761162.mp4" x-webkit-airplay="allow" disableremoteplayback="true" style="position: static; width: 100%; height: 100%; object-fit: contain; transition: filter 0.2s linear 0s; min-height: auto; max-height: none; min-width: auto; max-width: none;"></video>
+        
+    <script type="text/javascript" src="//msx.benzac.de/js/tvx-plugin.min.js"></script>
+        <script type="text/javascript">
+            function MyPlayer() {
+                this.init = function() {
+                    //Init player
+                };
+                this.ready = function() {
+                    //Player is ready
+                    TVXVideoPlugin.startPlayback();//This will call the play function and will start the update process
+                };
+                this.play = function() {
+                    //Play
+                };
+                this.pause = function() {
+                    //Pause
+                };
+                this.stop = function() {
+                    //Stop
+                };
+                this.getDuration = function() {
+                    //Get duration in seconds
+                    return 60;
+                };
+                this.getPosition = function() {
+                    //Get position in seconds
+                    return 0;
+                };
+                this.setPosition = function(position) {
+                    //Set position in seconds
+                    if (position == 60) {
+                        TVXVideoPlugin.stopPlayback();//Generally, this will unload the iframe
+                    }
+                };
+                this.setVolume = function(volume) {
+                    //Set volume (0 .. 100)
+                };
+                this.getVolume = function() {
+                    //Get volume (0 .. 100)
+                    return 100;
+                };
+                this.setMuted = function(muted) {
+                    //Set muted
+                };
+                this.isMuted = function() {
+                    //Get muted
+                    return false;
+                };
+                this.getSpeed = function() {
+                    //Get speed (0.125 .. 8.0)
+                    return 1;
+                };
+                this.setSpeed = function(speed) {
+                    //Set speed (0.125 .. 8.0)
+                };
+                this.getUpdateData = function() {
+                    //Get update data (this will be called each second)
+                    return {
+                        position: this.getPosition(),
+                        duration: this.getDuration(),
+                        speed: this.getSpeed()
+                    };
+                };
+            }
+            TVXPluginTools.onReady(function() {
+                TVXVideoPlugin.setupPlayer(new MyPlayer());
+                TVXVideoPlugin.init();
+            });
+        </script>
+        </body>
+</html>
