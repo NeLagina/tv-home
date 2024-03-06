@@ -11,6 +11,7 @@
       "title": "Ateiviai pagrob\u00c4\u2014 mano t\u00c4\u2014vus ir paliko mane",
       "action": "video:https://imgsto.re/api/1/t/01/laa8LIxrw59qGwZxemHkyA/16531614/1705800255.mp4",
       "image": "https://image.tmdb.org/t/p/w185/5rZed6NP0ZdmvU2UNeLqMddwAKu.jpg",
+      "playerLabel": "Ateiviai pagrob\u00c4\u2014 mano t\u00c4\u2014vus ir paliko mane",
       "badge": " 2023 LT"
     },
     {
@@ -18,7 +19,9 @@
       "title": "Kaimynai",
       "action": "video:https://imgsto.re/api/6/t/01/W8sURw3W4dvUZ21q96pMhA/11028768/1705800287.mp4",
       "image": "https://image.tmdb.org/t/p/w185/ukhbDB4hvCbx3HBsEVL65w9NP2k.jpg",
+      "playerLabel": "Kaimynai",
       "badge": "2020 LT"
+
     },
     {
       "badgeColor": "msx-blue",
@@ -67,6 +70,7 @@
       "title": "Pragaras rojuje",
       "action": "video:https://imgsto.re/api/3/01/-QNd634338weeM93ObqXmQ/1649419/1706467704.mp4",
       "image": "https://image.tmdb.org/t/p/w185/5dtla4cclnzfhou3IADsHERLEyk.jpg",
+      "playerLabel": "Pragaras rojuje",
       "badge": "2018 LT"
     },
     {
@@ -74,6 +78,7 @@
       "title": "Šokis svajonės ritmu",
       "action": "video:https://imgsto.re/api/4/01/gcp3C8pkDwBhGOfBv908Nw/3451230/1709759809.mp4",
       "image": "https://image.tmdb.org/t/p/w185/eFbSZvnx2ECc9hGUdbBXfx3704L.jpg",
+      "playerLabel": "Šokis svajonės ritmu",
       "badge": "2016"
     },
     {
@@ -81,7 +86,9 @@
       "title": "Šokis svajonės ritmu 2",
       "action": "video:https://imgsto.re/api/3/01/oSJSm413sXr_7jA0Dy-o6A/6428150/1709759855.mp4",
       "image": "https://image.tmdb.org/t/p/w185/2PKXkTik1sOICveKTNh6BspD5Xj.jpg",
+      "playerLabel": "Šokis svajonės ritmu 2",
       "badge": "2018"
+      
     }
   ]
 }
