@@ -82,11 +82,11 @@
         {
             "icon": "subscriptions",
             "label": "{col:msx-blue}Prenumeratos",
-            "action": "https://nelagina.github.io/tv-home/msx/serijalai/EN/main.json"
+            "data":""
         },
         {
             "icon": "info",
             "label": "{col:msx-red} Copyright /DMCA",
-            "action": "https://nelagina.github.io/tv-home/msx/DMCA.json"
+            "data": "https://nelagina.github.io/tv-home/msx/DMCA.json"
         }
     ]}
