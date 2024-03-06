@@ -1,1 +1,18 @@
-{}
+{
+    "type":"pages",
+    "template": {
+        "type": "separate",
+        "layout": "0,0,2,4",
+        "color": "msx-glass"
+    },
+    "items": [
+        {
+            "badgeColor": "msx-blue",
+            "title": "Tavo laiminga diena (neveikia :( )",
+            "action": "text:use github for cppyright",
+            "text": ""
+ 
+            "badge": "2024-2025 Filmai"
+        }
+    ]
+}
