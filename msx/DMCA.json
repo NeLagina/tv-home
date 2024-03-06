@@ -2,7 +2,7 @@
     "type":"pages",
     "template": {
         "type": "separate",
-        "layout": "0,0,13,6",
+        "layout": "0,0,12,6",
         "color": "msx-glass"
     },
     "items": [
