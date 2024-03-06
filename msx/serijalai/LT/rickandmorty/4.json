@@ -11,70 +11,70 @@
         "title": "Serija 1",
         "action": "video:https://imgsto.re/api/2/4-a/r7Q4J0m-mAF2kr4pPnXsVg/1/2861424/1709756980.mp4",
         "image": "https://image.tmdb.org/t/p/w300/hsRrS4E8WaxYPliG4XC2JTsIbwB.jpg",
-        "badge": "LT"
+        "playerLabel": "Sezonas 4 Serija 1"
       },
       {
         "badgeColor": "msx-blue",
         "title": "Serija 2",
         "action": "video:https://imgsto.re/api/2/4-a/1Ejxg0Y5Pb7K8Fn38VCtsg/2/2861424/1709757000.mp4",
         "image": "https://image.tmdb.org/t/p/w300/hsRrS4E8WaxYPliG4XC2JTsIbwB.jpg",
-        "badge": "LT"
+        "playerLabel": "Sezonas 4 Serija 2"
       },
       {
         "badgeColor": "msx-blue",
         "title": "Serija 3",
         "action": "video:https://imgsto.re/api/2/4-a/1Ejxg0Y5Pb7K8Fn38VCtsg/2/2861424/1709757000.mp4",
         "image": "https://image.tmdb.org/t/p/w300/hsRrS4E8WaxYPliG4XC2JTsIbwB.jpg",
-        "badge": "LT"
+        "playerLabel": "Sezonas 4 Serija 3"
       },
       {
         "badgeColor": "msx-blue",
         "title": "Serija 4",
         "action": "video:https://imgsto.re/api/3/4-a/cg7NYKDmonievUaTKGF39w/4/2861424/1709757034.mp4",
         "image": "https://image.tmdb.org/t/p/w300/hsRrS4E8WaxYPliG4XC2JTsIbwB.jpg",
-        "badge": "LT"
+        "playerLabel": "Sezonas 4 Serija 4"
       },
       {
         "badgeColor": "msx-blue",
         "title": "Serija 5",
         "action": "video:https://imgsto.re/api/3/4-a/FZT8clsklhjZvclbb8qerQ/5/2861424/1709757046.mp4",
         "image": "https://image.tmdb.org/t/p/w300/hsRrS4E8WaxYPliG4XC2JTsIbwB.jpg",
-        "badge": "LT"
+        "playerLabel": "Sezonas 4 Serija 5"
       },
       {
         "badgeColor": "msx-blue",
         "title": "Serija 6",
         "action": "video:https://imgsto.re/api/3/4-a/ppqt1CFVGfNdlUwZ-SUlGw/6/2861424/1709757056.mp4",
         "image": "https://image.tmdb.org/t/p/w300/hsRrS4E8WaxYPliG4XC2JTsIbwB.jpg",
-        "badge": "LT"
+        "playerLabel": "Sezonas 4 Serija 6"
       },
       {
         "badgeColor": "msx-blue",
         "title": "Serija 7",
         "action": "video:https://imgsto.re/api/2/4-a/V1tBoQ3KT8LUBhfDQcUURA/7/2861424/1709757065.mp4",
         "image": "https://image.tmdb.org/t/p/w300/hsRrS4E8WaxYPliG4XC2JTsIbwB.jpg",
-        "badge": "LT"
+        "playerLabel": "Sezonas 4 Serija 7"
       },
       {
         "badgeColor": "msx-blue",
         "title": "Serija 8",
         "action": "video:https://imgsto.re/api/3/4-a/mJP7-R7zAqjrtssntpunXg/8/2861424/1709757077.mp4",
         "image": "https://image.tmdb.org/t/p/w300/hsRrS4E8WaxYPliG4XC2JTsIbwB.jpg",
-        "badge": "LT"
+        "playerLabel": "Sezonas 4 Serija 8"
       },
       {
         "badgeColor": "msx-blue",
         "title": "Serija 9",
         "action": "video:https://imgsto.re/api/3/4-a/Uj3gnLUug-d_4DxQ_Mb7Vg/9/2861424/1709757101.mp4",
         "image": "https://image.tmdb.org/t/p/w300/hsRrS4E8WaxYPliG4XC2JTsIbwB.jpg",
-        "badge": "LT"
+        "playerLabel": "Sezonas 4 Serija 9"
       },
       {
         "badgeColor": "msx-blue",
         "title": "Serija 10",
         "action": "video:https://imgsto.re/api/2/4-a/06q1fJvJpYUYYEjez7InQA/10/2861424/1709757138.mp4",
         "image": "https://image.tmdb.org/t/p/w300/hsRrS4E8WaxYPliG4XC2JTsIbwB.jpg",
-        "badge": "LT"
+        "playerLabel": "Sezonas 4 Serija 10"
       }
     ]
   }

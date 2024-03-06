@@ -11,80 +11,80 @@
         "title": "Serija 1",
         "action": "video:https://srv9.filmax.live/videos/series/rickandmorty/rick.and.morty.s07e01.mp4",
         "image": "https://image.tmdb.org/t/p/w300/aivSwGdFf9CcefYvPfPyYSxQNwe.jpg",
-        "playerLabel": "Sezonas 7 Serija 1",
-        "badge": "LT"
+        "playerLabel": "Sezonas 7 Serija 1"
+        
       },
       {
         "badgeColor": "msx-blue",
         "title": "Serija 2",
         "action": "video:https://srv9.filmax.live/videos/series/rickandmorty/rick.and.morty.s07e02.mp4",
         "image": "https://image.tmdb.org/t/p/w300/aivSwGdFf9CcefYvPfPyYSxQNwe.jpg",
-        "playerLabel": "Sezonas 7 Serija 2",
-        "badge": "LT"
+        "playerLabel": "Sezonas 7 Serija 2"
+        
       },
       {
         "badgeColor": "msx-blue",
         "title": "Serija 3",
         "action": "video:https://srv9.filmax.live/videos/series/rickandmorty/rick.and.morty.s07e03.mp4",
         "image": "https://image.tmdb.org/t/p/w300/aivSwGdFf9CcefYvPfPyYSxQNwe.jpg",
-        "playerLabel": "Sezonas 7 Serija 3",
-        "badge": "LT"
+        "playerLabel": "Sezonas 7 Serija 3"
+        
       },
       {
         "badgeColor": "msx-blue",
         "title": "Serija 4",
         "action": "video:https://srv9.filmax.live/videos/series/rickandmorty/rick.and.morty.s07e04.mp4",
         "image": "https://image.tmdb.org/t/p/w300/aivSwGdFf9CcefYvPfPyYSxQNwe.jpg",
-        "playerLabel": "Sezonas 7 Serija 4",
-        "badge": "LT"
+        "playerLabel": "Sezonas 7 Serija 4"
+        
       },
       {
         "badgeColor": "msx-blue",
         "title": "Serija 5",
         "action": "video:https://srv9.filmax.live/videos/series/rickandmorty/rick.and.morty.s07e05.mp4",
         "image": "https://image.tmdb.org/t/p/w300/aivSwGdFf9CcefYvPfPyYSxQNwe.jpg",
-        "playerLabel": "Sezonas 7 Serija 5",
-        "badge": "LT"
+        "playerLabel": "Sezonas 7 Serija 5"
+        
       },
       {
         "badgeColor": "msx-blue",
         "title": "Serija 6",
         "action": "video:https://srv9.filmax.live/videos/series/rickandmorty/rick.and.morty.s07e06.mp4",
         "image": "https://image.tmdb.org/t/p/w300/aivSwGdFf9CcefYvPfPyYSxQNwe.jpg",
-        "playerLabel": "Sezonas 7 Serija 6",
-        "badge": "LT"
+        "playerLabel": "Sezonas 7 Serija 6"
+        
       },
       {
         "badgeColor": "msx-blue",
         "title": "Serija 7",
         "action": "video:https://srv9.filmax.live/videos/series/rickandmorty/rick.and.morty.s07e07.mp4",
         "image": "https://image.tmdb.org/t/p/w300/aivSwGdFf9CcefYvPfPyYSxQNwe.jpg",
-        "playerLabel": "Sezonas 7 Serija 7",
-        "badge": "LT"
+        "playerLabel": "Sezonas 7 Serija 7"
+        
       },
       {
         "badgeColor": "msx-blue",
         "title": "Serija 8",
         "action": "video:https://srv9.filmax.live/videos/series/rickandmorty/rick.and.morty.s07e08.mp4",
         "image": "https://image.tmdb.org/t/p/w300/aivSwGdFf9CcefYvPfPyYSxQNwe.jpg",
-        "playerLabel": "Sezonas 7 Serija 8",
-        "badge": "LT"
+        "playerLabel": "Sezonas 7 Serija 8"
+        
       },
       {
         "badgeColor": "msx-blue",
         "title": "Serija 9",
         "action": "video:https://srv9.filmax.live/videos/series/rickandmorty/rick.and.morty.s07e09.mp4",
         "image": "https://image.tmdb.org/t/p/w300/aivSwGdFf9CcefYvPfPyYSxQNwe.jpg",
-        "playerLabel": "Sezonas 7 Serija 9",
-        "badge": "LT"
+        "playerLabel": "Sezonas 7 Serija 9"
+        
       },
       {
         "badgeColor": "msx-blue",
         "title": "Serija 10",
         "action": "video:https://srv9.filmax.live/videos/series/rickandmorty/rick.and.morty.s07e10.mp4",
         "image": "https://image.tmdb.org/t/p/w300/aivSwGdFf9CcefYvPfPyYSxQNwe.jpg",
-        "playerLabel": "Sezonas 7 Serija 10",
-        "badge": "LT"
+        "playerLabel": "Sezonas 7 Serija 10"
+        
       }
     ]
   }

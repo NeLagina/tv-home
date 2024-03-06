@@ -11,70 +11,80 @@
         "title": "Serija 1",
         "action": "video:https://imgsto.re/api/2/6-a/rPkrqETWT2o6FKKydWjJVA/1/2861424/1709757562.mp4",
         "image": "https://image.tmdb.org/t/p/w300/erpChhl0uknAvYsEC3zq7abbXeb.jpg",
-        "badge": "LT"
+        "playerLabel": "Sezonas 6 Serija 1"
+        
       },
       {
         "badgeColor": "msx-blue",
         "title": "Serija 2",
         "action": "video:https://imgsto.re/api/3/6-a/GGWReBYifTEEKPc0NGGcJg/2/2861424/1709757587.mp4",
         "image": "https://image.tmdb.org/t/p/w300/erpChhl0uknAvYsEC3zq7abbXeb.jpg",
-        "badge": "LT"
+        "playerLabel": "Sezonas 6 Serija 2"
+        
       },
       {
         "badgeColor": "msx-blue",
         "title": "Serija 3",
         "action": "video:https://imgsto.re/api/3/6-a/i67kb1joOYdI2Gf2Gm0zxA/3/2861424/1709757597.mp4",
         "image": "https://image.tmdb.org/t/p/w300/erpChhl0uknAvYsEC3zq7abbXeb.jpg",
-        "badge": "LT"
+        "playerLabel": "Sezonas 6 Serija 3"
+        
       },
       {
         "badgeColor": "msx-blue",
         "title": "Serija 4",
         "action": "video:https://imgsto.re/api/2/6-a/dE7PfEPY0ISyOr36qZ9gFQ/4/2861424/1709757607.mp4",
         "image": "https://image.tmdb.org/t/p/w300/erpChhl0uknAvYsEC3zq7abbXeb.jpg",
-        "badge": "LT"
+        "playerLabel": "Sezonas 6 Serija 4"
+        
       },
       {
         "badgeColor": "msx-blue",
         "title": "Serija 5",
         "action": "video:https://imgsto.re/api/2/6-a/xvM3aGlZBzwcPC-c2zBIgA/5/2861424/1709757627.mp4",
         "image": "https://image.tmdb.org/t/p/w300/erpChhl0uknAvYsEC3zq7abbXeb.jpg",
-        "badge": "LT"
+        "playerLabel": "Sezonas 6 Serija 5"
+        
       },
       {
         "badgeColor": "msx-blue",
         "title": "Serija 6",
         "action": "video:https://imgsto.re/api/3/6-a/BSK6en0TOMXw6m17xk4xPw/6/2861424/1709757655.mp4",
         "image": "https://image.tmdb.org/t/p/w300/erpChhl0uknAvYsEC3zq7abbXeb.jpg",
-        "badge": "LT"
+        "playerLabel": "Sezonas 6 Serija 6"
+        
       },
       {
         "badgeColor": "msx-blue",
         "title": "Serija 7",
         "action": "video:https://imgsto.re/api/2/6-a/MMnN2l07-SezaaaxB5pGPA/7/2861424/1709757670.mp4",
         "image": "https://image.tmdb.org/t/p/w300/erpChhl0uknAvYsEC3zq7abbXeb.jpg",
-        "badge": "LT"
+        "playerLabel": "Sezonas 6 Serija 7"
+        
       },
       {
         "badgeColor": "msx-blue",
         "title": "Serija 8",
         "action": "video:https://imgsto.re/api/2/6-a/2xnS2gV6fddNfwItaYau1g/8/2861424/1709757684.mp4",
         "image": "https://image.tmdb.org/t/p/w300/erpChhl0uknAvYsEC3zq7abbXeb.jpg",
-        "badge": "LT"
+        "playerLabel": "Sezonas 6 Serija 8"
+        
       },
       {
         "badgeColor": "msx-blue",
         "title": "Serija 9",
         "action": "video:https://imgsto.re/api/2/6-a/A5-1L6U3ct-p7sH1L6TtRQ/9/2861424/1709757697.mp4",
         "image": "https://image.tmdb.org/t/p/w300/erpChhl0uknAvYsEC3zq7abbXeb.jpg",
-        "badge": "LT"
+        "playerLabel": "Sezonas 6 Serija 9"
+        
       },
       {
         "badgeColor": "msx-blue",
         "title": "Serija 10",
         "action": "video:https://imgsto.re/api/2/6-a/sk5joDQ_DzsGKdGiWDLovg/10/2861424/1709757713.mp4",
         "image": "https://image.tmdb.org/t/p/w300/erpChhl0uknAvYsEC3zq7abbXeb.jpg",
-        "badge": "LT"
+        "playerLabel": "Sezonas 6 Serija 10"
+        
       }
     ]
   }
