@@ -8,10 +8,10 @@
     "items": [
         {
             "headline":"test",
-            "badgeColor": "msx-Yelloe",
+            "badgeColor": "msx-yellow",
             "title": "Credit /Kreditai",
             "action": "text:use github for cppyright",
-            "text": "Dare NeLagina Pradejo Wulic :)"
+            
             "alignment":"",
             "color":"msx-yellow",
  
