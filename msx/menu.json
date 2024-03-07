@@ -77,7 +77,7 @@
         {
             "icon": "switch-account",
             "label": "{col:msx-blue}Profiliai",
-            "action": "https://nelagina.github.io/tv-home/msx/serijalai/EN/main.json"
+            "action": ""
         },
         {
             "icon": "subscriptions",
@@ -87,6 +87,6 @@
         {
             "icon": "info",
             "label": "{col:msx-Blue} Credits /Kreditai",
-            "data": "https://nelagina.github.io/tv-home/msx/DMCA.json"
+            "data": "https://nelagina.github.io/tv-home/msx/info.json"
         }
     ]}
