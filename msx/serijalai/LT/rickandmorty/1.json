@@ -8,13 +8,6 @@
     "items": [
       {
         "badgeColor": "msx-blue",
-        "title": "TEST",
-        "action": "video:resolve:request:interaction:https://imgsto.re/api/4/2-a/DMLQVPvtVGU4q3O9tNaJFw/1/2861424/1709769922.mp4@http://msx.benzac.de/interaction/play.html",
-        "image": "https://cdn.discordapp.com/attachments/1214595775435120650/1214601673021063168/image.png?ex=65f9b4f5&is=65e73ff5&hm=99083aa63df44f5b80fca394a85a3798954d634a518f353a0fae1d24eace9834&",
-        "playerLabel": "test"
-      },
-      {
-        "badgeColor": "msx-blue",
         "title": "Serija 1",
         "action": "video:https://srv9.filmax.live/videos/series/rickandmorty/rick.and.morty.s01e01.mp4?st=65j8wLgFdetTjd4E8kzjOQ&e=1709418273",
         "image": "https://cdn.discordapp.com/attachments/1214595775435120650/1214601673021063168/image.png?ex=65f9b4f5&is=65e73ff5&hm=99083aa63df44f5b80fca394a85a3798954d634a518f353a0fae1d24eace9834&",
