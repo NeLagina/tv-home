@@ -16,3 +16,5 @@ Rasporyadok dnya = dienotvarke =             Распорядок дня
 Pozdno = Vėlai =                             Поздно
 Rano = Anksti =                              Рано
 Vso delayet vovremya = viską daro laiku =    Всё делает вовремя
+
+https://tv.nelagina.lt/files/zodzai.html
