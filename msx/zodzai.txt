@@ -1,0 +1,18 @@
+YA vstayu = Aš keluosi
+YA delayu zaryadku = aš darau mankšta =     Я делаю зарядку
+YA umyvayus' = prausuosi =                  Я умываюсь
+YA chishchu zuby = aš valausi savo dantis = Я чищу зубы
+YA odevayus' = Aš rengiuosi =               Я одеваюсь
+YA zavtrakayu = aš valgau pusryčius =       Я завтракаю
+YA obedayu = pietauju =                     Я обедаю
+YA uzhinayu =  vakaraniauju =               Я ужинаю
+YA otdykhayu = ilsuosi =                    Я отдыхаю 
+YA lozhus' spat' = aš einu miegoti =        Я ложусь спать
+YA speshu = aš skubu =                      Я спешу
+Kak ty sebya chuvstvuyesh' = Kaip tu jautiesi = Как ты себя чувствуешь
+Soblyudayet rezhim dnya =  Išlaiko kasdienę rutiną =  Соблюдает режим дня
+Kogda ty vstayosh'? = Kada tu keliesi =      Когда ты встаёшь?
+Rasporyadok dnya = dienotvarke =             Распорядок дня
+Pozdno = Vėlai =                             Поздно
+Rano = Anksti =                              Рано
+Vso delayet vovremya = viską daro laiku =    Всё делает вовремя
