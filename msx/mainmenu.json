@@ -9,7 +9,7 @@
     "items": [
         {
 
-            "layout": "0,0,15,4",
+            "layout": "0,0,15,3",
             "title": "Watch now > Rick and morty soon :)",
             "image": "https://image.tmdb.org/t/p/w300/h4hVRtaRlkXCajbqcIPplXKo8Pu.jpg",
             "action": "content:https://nelagina.github.io/tv-home/msx/serijalai/LT/rickandmorty/rick-main.json"
