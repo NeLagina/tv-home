@@ -94,6 +94,13 @@
       "action": "video:https://imgsto.re/api/2/01/3SKcmt-L9f5lymYhNvBtOA/1865368/1709929804.mp4",
       "image": "https://image.tmdb.org/t/p/w185/tYrFy4qsmjq1x7ckZwyi25NE8Dk.jpg",
       "badge": "2012"
+    },
+    {
+      "badgeColor": "msx-blue",
+      "title": "Terminalas",
+      "action": "video:https://imgsto.re/api/7/01/9BRwO8eZo0wfFVSjgL21FQ/0362227/1709941918.mp4",
+      "image": "https://image.tmdb.org/t/p/w185/pXNomqKcKXAQbuWxehb2N3XFKfn.jpg",
+      "badge": "2004"
     }
   ]
 }
