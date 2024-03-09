@@ -44,6 +44,21 @@
             "data": "https://nelagina.github.io/tv-home/msx/filmai/kriminalinei.json"
         },
         {
+            "icon": "movie",
+            "label": "{col:msx-yellow}Nuotykiu",
+            "data": "https://nelagina.github.io/tv-home/msx/filmai/nuotykiai.json"
+        },
+        {
+            "icon": "movie",
+            "label": "{col:msx-yellow}Trileriai",
+            "data": "https://nelagina.github.io/tv-home/msx/filmai/trileriai.json"
+        },
+        {
+            "icon": "movie",
+            "label": "{col:msx-yellow}Siaubo",
+            "data": "https://nelagina.github.io/tv-home/msx/filmai/siaubo.json"
+        },
+        {
             "type": "separator",
             "label": "Serijalai"
         },

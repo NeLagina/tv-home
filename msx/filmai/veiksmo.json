@@ -1,31 +1,66 @@
 {
-    "type":"list",
-    "template": {
-        "type": "separate",
-        "layout": "0,0,2,4",
-        "color": "msx-glass"
+  "type": "list",
+  "template": {
+    "type": "separate",
+    "layout": "0,0,2,4",
+    "color": "msx-glass"
+  },
+  "items": [
+    {
+      "badgeColor": "msx-blue",
+      "title": "B\u00c4\u2014gantis labirintu",
+      "action": "video:https://imgsto.re/api/3/be/oWRtdnIWF29_yoZntVWtUg/1790864/1709520875.mp4",
+      "image": "https://image.tmdb.org/t/p/w185/ode14q7WtDugFDp78fo9lCsmay9.jpg",
+      "badge": "2014 "
     },
-    "items": [
-        {
-            "badgeColor": "msx-blue",
-            "title": "Bėgantis labirintu",
-            "action": "video:https://imgsto.re/api/3/be/oWRtdnIWF29_yoZntVWtUg/1790864/1709520875.mp4",
-            "image": "https://image.tmdb.org/t/p/w185/ode14q7WtDugFDp78fo9lCsmay9.jpg",
-            "badge": "2014 "
-        },
-        {
-            "badgeColor": "msx-blue",
-            "title": "Bėgantis labirintu: išmėginimai ugnimi",
-            "action": "video:https://imgsto.re/api/2/be/xXZuHrLy6UPAiAsPUotOMQ/4046784/1709520930.mp4",
-            "image": "https://image.tmdb.org/t/p/w185/mYw7ZyejqSCPFlrT2jHZOESZDU3.jpg",
-            "badge": "2015 "
-        },
-        {
-            "badgeColor": "msx-blue",
-            "title": "Bėgantis labirintu: vaistai nuo mirties",
-            "action": "video:https://imgsto.re/api/2/01/qS-_5KJVBNqdl4XG8F9gyg/4500922/1709520983.mp4",
-            "image": "https://image.tmdb.org/t/p/w185/2zYfzA3TBwrMC8tfFbpiTLODde0.jpg",
-            "badge": "2018 "
-        }
-    ]
+    {
+      "badgeColor": "msx-blue",
+      "title": "B\u00c4\u2014gantis labirintu: i\u00c5\u00a1m\u00c4\u2014ginimai ugnimi",
+      "action": "video:https://imgsto.re/api/2/be/xXZuHrLy6UPAiAsPUotOMQ/4046784/1709520930.mp4",
+      "image": "https://image.tmdb.org/t/p/w185/mYw7ZyejqSCPFlrT2jHZOESZDU3.jpg",
+      "badge": "2015 "
+    },
+    {
+      "badgeColor": "msx-blue",
+      "title": "B\u00c4\u2014gantis labirintu: vaistai nuo mirties",
+      "action": "video:https://imgsto.re/api/2/01/qS-_5KJVBNqdl4XG8F9gyg/4500922/1709520983.mp4",
+      "image": "https://image.tmdb.org/t/p/w185/2zYfzA3TBwrMC8tfFbpiTLODde0.jpg",
+      "badge": "2018 "
+    },
+    {
+      "badgeColor": "msx-blue",
+      "title": "Tvistas",
+      "action": "video:https://imgsto.re/api/4/t/01/l33nH0E2TBxQX6CZVpZwQA/10077034/1709994836.mp4",
+      "image": "https://image.tmdb.org/t/p/w185/29dCusd9PwHrbDqzxNG35WcpZpS.jpg",
+      "badge": "2021"
+    },
+    {
+      "badgeColor": "msx-blue",
+      "title": "Rytojaus karas",
+      "action": "video:https://imgsto.re/api/3/t/01/5DlSZ7tmQjwroG_uSqHvUA/9777666/1709995237.mp4",
+      "image": "https://image.tmdb.org/t/p/w185/xipF6XqfSYV8DxLqfLN6aWlwuRp.jpg",
+      "badge": "2021"
+    },
+    {
+      "badgeColor": "msx-blue",
+      "title": "\u017dudikas",
+      "action": "video:https://imgsto.re/api/2/t/01/tSfSRG6MSe_P3-Ww6JpGQg/14555174/1709997378.mp4",
+      "image": "https://image.tmdb.org/t/p/w185/nckPbPhQUB6HB9dGba8hWCN4xqM.jpg",
+      "badge": "2023"
+    },
+    {
+      "badgeColor": "msx-blue",
+      "title": "Bek\u0117s pyktis",
+      "action": "video:https://imgsto.re/api/4/t/01/R-9K0UJX1y5220Rb7TgwXg/20916568/1709999212.mp4",
+      "image": "https://image.tmdb.org/t/p/w185/3LShl6EwqptKIVq6NWOZ0FbZHEe.jpg",
+      "badge": "2023"
+    },
+    {
+      "badgeColor": "msx-blue",
+      "title": "Klajojanti \u017eem\u0117 2",
+      "action": "video:https://imgsto.re/api/2/t/01/NXegaLKWnVryAuAeziQyjg/13539646/1710000608.mp4",
+      "image": "https://image.tmdb.org/t/p/w185/pR858ihc6Ls9xohpdRJVjV787ml.jpg",
+      "badge": "2023"
+    }
+  ]
 }
