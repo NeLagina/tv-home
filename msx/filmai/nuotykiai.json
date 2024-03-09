@@ -11,21 +11,24 @@
       "title": "Be gailes\u010dio",
       "action": "video:https://imgsto.re/api/2/t/01/hk60GhTOfZfCgsGBf2imGQ/0499097/1709995153.mp4",
       "image": "https://image.tmdb.org/t/p/w185/rEm96ib0sPiZBADNKBHKBv5bve9.jpg",
-      "badge": "2021 "
+      "badge": "2021 ",
+      "playerLabel": "Be gailes\u010dio"
     },
     {
       "badgeColor": "msx-blue",
       "title": "Abigaile",
       "action": "video:https://imgsto.re/api/3/t/01/fWhV9eJLQ4jvlbyXWxv04Q/7025388/1709995607.mp4",
       "image": "https://image.tmdb.org/t/p/w185/5Ggf38fEAhOCdgvfLOfUcfEQTQT.jpg",
-      "badge": "2019"
+      "badge": "2019",
+      "playerLabel": "Abigaile"
     },
     {
       "badgeColor": "msx-blue",
       "title": "\u010ciupa",
       "action": "video:https://imgsto.re/api/4/t/01/y8vJc06-OzORvops2keR3A/14923260/1709999740.mp4",
       "image": "https://image.tmdb.org/t/p/w185/ra3xm8KFAkwK0CdbPRkfYADJYTB.jpg",
-      "badge": "2023"
+      "badge": "2023",
+      "playerLabel": "\u010ciupa"
     }
   ]
 }

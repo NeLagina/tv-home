@@ -27,42 +27,48 @@
       "title": "Laidotuv\u00c4\u2014s",
       "action": "video:https://imgsto.re/api/4/t/01/CFLjPgPnYO1C_SykWiAGew/5648882/1705800314.mp4",
       "image": "https://image.tmdb.org/t/p/w185/9ssNSfNKpzZwhbFsnW3wa82m2sG.jpg",
-      "badge": "2023 LT"
+      "badge": "2023 LT",
+      "playerLabel": "Laidotuv\u00c4\u2014s"
     },
     {
       "badgeColor": "msx-blue",
       "title": "Openheimeris",
       "action": "video:https://imgsto.re/api/5/t/01/U2FYsiYksq-sWrqf5iS3cw/15398776/1705800338.mp4",
       "image": "https://image.tmdb.org/t/p/w185/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
-      "badge": "2023 LT"
+      "badge": "2023 LT",
+      "playerLabel": "Openheimeris"
     },
     {
       "badgeColor": "msx-blue",
       "title": "Li\u00c5\u00abtas karalius",
       "action": "video:https://imgsto.re/api/6/01/6T6-oi7U4vKvh9ZzW3P88Q/0110357/1705800364.mp4",
       "image": "https://image.tmdb.org/t/p/w185/sKCr78MXSLixwmZ8DyJLrpMsd15.jpg",
-      "badge": "1994 LT"
+      "badge": "1994 LT",
+      "playerLabel": "Li\u00c5\u00abtas karalius"
     },
     {
       "badgeColor": "msx-blue",
       "title": "Penkiasde\u00c5\u00a1imt pilk\u00c5\u00b3 atspalvi\u00c5\u00b3",
       "action": "video:https://imgsto.re/api/2/be/XQ72Y-fo08aqr09v-NLL1g/2322441/1705792431.mp4",
       "image": "https://image.tmdb.org/t/p/w185/63kGofUkt1Mx0SIL4XI4Z5AoSgt.jpg",
-      "badge": "2015 LT"
+      "badge": "2015 LT",
+      "playerLabel": "Penkiasde\u00c5\u00a1imt pilk\u00c5\u00b3 atspalvi\u00c5\u00b3"
     },
     {
       "badgeColor": "msx-blue",
       "title": "Penkiasde\u00c5\u00a1imt tamsesni\u00c5\u00b3 atspalvi\u00c5\u00b3",
       "action": "video:https://imgsto.re/api/4/01/DhdilcSIjOtENenZD2udTA/4465564/1705800077.mp4",
       "image": "https://image.tmdb.org/t/p/w185/w3qa274gvca9t8pkUoG8nfQgTU3.jpg",
-      "badge": "2017 LT"
+      "badge": "2017 LT",
+      "playerLabel": "Penkiasde\u00c5\u00a1imt tamsesni\u00c5\u00b3 atspalvi\u00c5\u00b3"
     },
     {
       "badgeColor": "msx-blue",
       "title": "Penkiasde\u00c5\u00a1imt i\u00c5\u00a1laisvint\u00c5\u00b3 atspalvi\u00c5\u00b3",
       "action": "video:https://imgsto.re/api/4/01/6-tXQZdZ83w5cX0m4Ahn5w/4477536/1705800208.mp4",
       "image": "https://image.tmdb.org/t/p/w185/9ZedQHPQVveaIYmDSTazhT3y273.jpg",
-      "badge": "2018 LT"
+      "badge": "2018 LT",
+      "playerLabel": "Penkiasde\u00c5\u00a1imt i\u00c5\u00a1laisvint\u00c5\u00b3 atspalvi\u00c5\u00b3"
     },
     {
       "badgeColor": "msx-blue",
@@ -93,105 +99,120 @@
       "title": "Draug\u0117s - prie\u0161\u0117s",
       "action": "video:https://imgsto.re/api/2/01/3SKcmt-L9f5lymYhNvBtOA/1865368/1709929804.mp4",
       "image": "https://image.tmdb.org/t/p/w185/tYrFy4qsmjq1x7ckZwyi25NE8Dk.jpg",
-      "badge": "2012"
+      "badge": "2012",
+      "playerLabel": "Draug\u0117s - prie\u0161\u0117s"
     },
     {
       "badgeColor": "msx-blue",
       "title": "Terminalas",
       "action": "video:https://imgsto.re/api/7/01/9BRwO8eZo0wfFVSjgL21FQ/0362227/1709941918.mp4",
       "image": "https://image.tmdb.org/t/p/w185/pXNomqKcKXAQbuWxehb2N3XFKfn.jpg",
-      "badge": "2004"
+      "badge": "2004",
+      "playerLabel": "Terminalas"
     },
     {
       "badgeColor": "msx-blue",
       "title": "Gran Turismo",
       "action": "video:https://imgsto.re/api/2/t/01/r9HrdWs2TUSjB6GIN7bDFA/4495098/1709995506.mp4",
       "image": "https://image.tmdb.org/t/p/w185/51tqzRtKMMZEYUpSYkrUE7v9ehm.jpg",
-      "badge": "2023"
+      "badge": "2023",
+      "playerLabel": "Gran Turismo"
     },
     {
       "badgeColor": "msx-blue",
       "title": "Li\u016bdnai pagars\u0117j\u0119",
       "action": "video:https://imgsto.re/api/4/t/01/8aW8tyfREr7f1Iswcnhc6g/7703924/1709995555.mp4",
       "image": "https://image.tmdb.org/t/p/w185/q2lkJf1TAjImTHCEO7XvbqPtnPb.jpg",
-      "badge": "2020"
+      "badge": "2020",
+      "playerLabel": "Li\u016bdnai pagars\u0117j\u0119"
     },
     {
       "badgeColor": "msx-blue",
       "title": "Mano kalt\u0117",
       "action": "video:https://imgsto.re/api/3/01/aBDxqlCmfhPzsFmg2KQYqw/21909764/1709999327.mp4",
       "image": "https://image.tmdb.org/t/p/w185/w46Vw536HwNnEzOa7J24YH9DPRS.jpg",
-      "badge": "2023"
+      "badge": "2023",
+      "playerLabel": "Mano kalt\u0117"
     },
     {
       "badgeColor": "msx-blue",
       "title": "Paskutinis sargybos postas",
       "action": "video:https://imgsto.re/api/4/t/01/pwiJSGxq2IsPdLUxfAbm6w/5153956/1709999436.mp4",
       "image": "https://image.tmdb.org/t/p/w185/pD1o9B0ibENdNroYrBCQemG2jnr.jpg",
-      "badge": "2023"
+      "badge": "2023",
+      "playerLabel": "Paskutinis sargybos postas"
     },
     {
       "badgeColor": "msx-blue",
       "title": "Vanz\u0117s konferencija",
       "action": "video:https://imgsto.re/api/2/01/voHCrvyHXD4-ems8QjFZ0g/14321668/1709999524.mp4",
       "image": "https://image.tmdb.org/t/p/w185/55IkZ0dU8JA4400NA5c4YbM51lF.jpg",
-      "badge": "2022"
+      "badge": "2022",
+      "playerLabel": "Vanz\u0117s konferencija"
     },
     {
       "badgeColor": "msx-blue",
       "title": "Dirbtin\u0117 mergait\u0117",
       "action": "video:https://imgsto.re/api/4/t/01/Sodx3dfBdRDfm0ghhKqnUw/20859464/1709999549.mp4",
       "image": "https://image.tmdb.org/t/p/w185/A3qrVjsBd4IZ3QWHMs2x1dwRxuX.jpg",
-      "badge": "2023"
+      "badge": "2023",
+      "playerLabel": "Dirbtin\u0117 mergait\u0117"
     },
     {
       "badgeColor": "msx-blue",
       "title": "Tvirtas u\u017enugaris",
       "action": "video:https://imgsto.re/api/2/t/01/QpP-_e46sB1TdUn-7Axkbw/4873118/1709999664.mp4",
       "image": "https://image.tmdb.org/t/p/w185/aX0H63vho7rZ9Rm3I567Zf00Z1t.jpg",
-      "badge": "2023"
+      "badge": "2023",
+      "playerLabel": "Tvirtas u\u017enugaris"
     },
     {
       "badgeColor": "msx-blue",
       "title": "Gyveno kart\u0105 Oto",
       "action": "video:https://imgsto.re/api/2/t/01/OSluTwzoSkxa8yBUj-y_Ew/7405458/1709999710.mp4",
       "image": "https://image.tmdb.org/t/p/w185/130H1gap9lFfiTF9iDrqNIkFvC9.jpg",
-      "badge": "2022"
+      "badge": "2022",
+      "playerLabel": "Gyveno kart\u0105 Oto"
     },
     {
       "badgeColor": "msx-blue",
       "title": "Tetris",
       "action": "video:https://imgsto.re/api/3/01/Lzv-raSubViiltZmDe2DcA/12758060/1709999855.mp4",
       "image": "https://image.tmdb.org/t/p/w185/4F2QwCOYHJJjecSvdOjStuVLkpu.jpg",
-      "badge": "2023"
+      "badge": "2023",
+      "playerLabel": "Tetris"
     },
     {
       "badgeColor": "msx-blue",
       "title": "Auksiniai Vyrai",
       "action": "video:https://imgsto.re/api/4/01/fCIhyAYdQ96EmphZvkMx9w/9133370/1709999972.mp4",
       "image": "https://image.tmdb.org/t/p/w185/kqqJh2mL0woJdUFYXNmVrgcPhVp.jpg",
-      "badge": "2019"
+      "badge": "2019",
+      "playerLabel": "Auksiniai Vyrai"
     },
     {
       "badgeColor": "msx-blue",
       "title": "Alisa, brangioji",
       "action": "video:https://imgsto.re/api/3/t/01/Pr8NQRbnYzJhz4Z4Qp2a6A/11687104/1710000088.mp4",
       "image": "https://image.tmdb.org/t/p/w185/ybqS7I4tuMs1TIssvuLMk2lYlLe.jpg",
-      "badge": "2022"
+      "badge": "2022",
+      "playerLabel": "Alisa, brangioji"
     },
     {
       "badgeColor": "msx-blue",
       "title": "Aplinkyb\u0117s",
       "action": "video:https://imgsto.re/api/1/t/01/uIkv4cE9AJ0w80nGs4BpRQ/13880104/1710000291.mp4",
       "image": "https://image.tmdb.org/t/p/w185/f2lTAmLYpWpd8JxtJrMXFFGV9gZ.jpg",
-      "badge": "2021"
+      "badge": "2021",
+      "playerLabel": "Aplinkyb\u0117s"
     },
     {
       "badgeColor": "msx-blue",
       "title": "Klajojanti \u017eem\u0117",
       "action": "video:https://imgsto.re/api/2/01/_udyMzNykO_XqS_r3cABiw/7605074/1710000665.mp4",
       "image": "https://image.tmdb.org/t/p/w185/woo56L6LYYoM89DYBCU2C6LO1at.jpg",
-      "badge": "2019"
+      "badge": "2019",
+      "playerLabel": "Klajojanti \u017eem\u0117"
     }
   ]
 }
