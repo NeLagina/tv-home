@@ -1,0 +1,45 @@
+{
+  "type": "list",
+  "template": {
+    "type": "separate",
+    "layout": "0,0,2,4",
+    "color": "msx-glass"
+  },
+  "items": [
+    {
+      "badgeColor": "msx-blue",
+      "title": "Mirtis eteryje",
+      "action": "video:https://imgsto.re/api/4/01/dSoZKZB3QwtFsXYV4BZ5PA/8712474/1710000959.mp4",
+      "image": "https://image.tmdb.org/t/p/w185/3wWj5J26fC44sACSterum5kwsCX.jpg",
+      "badge": "2019 "
+    },
+    {
+      "badgeColor": "msx-blue",
+      "title": "Beribis kambarys",
+      "action": "video:https://imgsto.re/api/3/01/-8SQ7PTALjRuj0uKnjwqqQ/3839880/1710000992.mp4",
+      "image": "https://image.tmdb.org/t/p/w185/3WDppnUdf6nKDnrhjxrGlekvMuA.jpg",
+      "badge": "2016"
+    },
+    {
+      "badgeColor": "msx-blue",
+      "title": "Slaptasis kambarys",
+      "action": "video:https://imgsto.re/api/3/t/01/aW2w1pO4jbt90p903zB7-g/6210996/1710001042.mp4",
+      "image": "https://image.tmdb.org/t/p/w185/egMETBYual2JtfFGigXTA0tGkME.jpg",
+      "badge": "2018"
+    },
+    {
+      "badgeColor": "msx-blue",
+      "title": "Paramedikas",
+      "action": "video:https://image.tmdb.org/t/p/w780/lOQGb1IqtBw6l7BR6ODBikYbQhZ.jpg",
+      "image": "https://image.tmdb.org/t/p/w185/l9ruFmHoUws4A45s8FBZuMNC6Mu.jpg",
+      "badge": "2020"
+    },
+    {
+      "badgeColor": "msx-blue",
+      "title": "Kova su velniu",
+      "action": "video:https://imgsto.re/api/4/t/01/7FCWyZQgwvla9DkSlE9D6Q/21991654/1710001134.mp4",
+      "image": "https://image.tmdb.org/t/p/w185/afGdVMa80LMs6ibLP22CwM5uI4e.jpg",
+      "badge": "2023"
+    }
+  ]
+}
