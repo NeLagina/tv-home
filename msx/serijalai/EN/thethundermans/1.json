@@ -1,0 +1,90 @@
+{
+    "type": "list",
+    "template": {
+      "type": "separate",
+      "layout": "0,0,4.2,3",
+      "color": "msx-glass"
+    },
+    "items": [
+      {
+        "badgeColor": "msx-blue",
+        "title": "Epizode 1",
+        "action": "video:C:/Users/gytis/OneDrive/Documents/FebBox/The Thundermans/season 1/The.Thundermans.S01E01.Adventures.in.Supersitting.1080p.WEB-DL.AAC2.0.H.264-DDWorld.mkv",
+        "image": "https://cdn.discordapp.com/attachments/1214595775435120650/1214601673021063168/image.png?ex=65f9b4f5&is=65e73ff5&hm=99083aa63df44f5b80fca394a85a3798954d634a518f353a0fae1d24eace9834&",
+        "playerLabel": "Season 1 Epizode 1"
+      },
+      {
+        "badgeColor": "msx-blue",
+        "title": "Epizode 2",
+        "action": "video:https://srv9.filmax.live/videos/series/rickandmorty/rick.and.morty.s01e02.mp4?st=65j8wLgFdetTjd4E8kzjOQ&e=1709418273",
+        "image": "https://cdn.discordapp.com/attachments/1214595775435120650/1214602171006590986/image.png?ex=65f9b56b&is=65e7406b&hm=367ce2df40baf20e6820d340eee17605a0b543c25f78158d279b4fd75d74e289&",
+        "playerLabel": "Season 1 Epizode 2"
+      },
+      {
+        "badgeColor": "msx-blue",
+        "title": "Epizode 3",
+        "action": "video:https://srv9.filmax.live/videos/series/rickandmorty/rick.and.morty.s01e03.mp4?st=65j8wLgFdetTjd4E8kzjOQ&e=1709418273",
+        "image": "https://cdn.discordapp.com/attachments/1214595775435120650/1214602288690233354/image.png?ex=65f9b587&is=65e74087&hm=2123bbdf1ebebbb02f683e24a461e20fcfabd67a2194c447113b1e2f69bf89c9&",
+        "playerLabel": "Season 1 Epizode 3"
+      },
+      {
+        "badgeColor": "msx-blue",
+        "title": "Epizode 4",
+        "action": "video:https://srv9.filmax.live/videos/series/rickandmorty/rick.and.morty.s01e04.mp4?st=65j8wLgFdetTjd4E8kzjOQ&e=1709418273",
+        "image": "https://cdn.discordapp.com/attachments/1214595775435120650/1214602384009990244/image.png?ex=65f9b59e&is=65e7409e&hm=53565dc070010c73182a27138174c5d116e41960822273ec25476af4fec398a1&",
+        "playerLabel": "Season 1 Epizode 4"
+      },
+      {
+        "badgeColor": "msx-blue",
+        "title": "Epizode 5",
+        "action": "video:https://srv9.filmax.live/videos/series/rickandmorty/rick.and.morty.s01e05.mp4?st=65j8wLgFdetTjd4E8kzjOQ&e=1709418273",
+        "image": "https://cdn.discordapp.com/attachments/1214595775435120650/1214602493653418024/image.png?ex=65f9b5b8&is=65e740b8&hm=f2d9652393be9da6fa8ea8a32f423cdf698653abc0338beb497b515cd8b9601d&",
+        "playerLabel": "Season 1 Epizode 5"
+      },
+      {
+        "badgeColor": "msx-blue",
+        "title": "Epizode 6",
+        "action": "video:https://srv9.filmax.live/videos/series/rickandmorty/rick.and.morty.s01e06.mp4?st=65j8wLgFdetTjd4E8kzjOQ&e=1709418273",
+        "image": "https://cdn.discordapp.com/attachments/1214595775435120650/1214683126987493406/image.png?ex=65fa00d1&is=65e78bd1&hm=647f725d3e44884336e49f11ce3be73b66473f5f9214680c83bc6f2002014cdd&",
+        "playerLabel": "Season 1 Epizode 6"
+      },
+      {
+        "badgeColor": "msx-blue",
+        "title": "Epizode 7",
+        "action": "video:https://srv9.filmax.live/videos/series/rickandmorty/rick.and.morty.s01e07.mp4?st=65j8wLgFdetTjd4E8kzjOQ&e=1709418273",
+        "image": "https://cdn.discordapp.com/attachments/1214595775435120650/1214683218641555456/image.png?ex=65fa00e7&is=65e78be7&hm=659d5f87e733b33bac9edb387637ca69935d729bb00cbb610ae1635e570206ae&",
+        "playerLabel": "Season 1 Epizode 7"
+      },
+      {
+        "badgeColor": "msx-blue",
+        "title": "Epizode 8",
+        "action": "video:https://srv9.filmax.live/videos/series/rickandmorty/rick.and.morty.s01e08.mp4?st=65j8wLgFdetTjd4E8kzjOQ&e=1709418273",
+        "image": "https://cdn.discordapp.com/attachments/1214595775435120650/1214683290158764122/image.png?ex=65fa00f8&is=65e78bf8&hm=5979f84d84fac7ecc9c65518c184c88da39ee52601f0cadcb04db79aee173d1d&",
+        "playerLabel": "Season 1 Epizode 8"
+      },
+      {
+        "badgeColor": "msx-blue",
+        "title": "Epizode 9",
+        "action": "video:https://srv9.filmax.live/videos/series/rickandmorty/rick.and.morty.s01e09.mp4?st=65j8wLgFdetTjd4E8kzjOQ&e=1709418273",
+        "image": "https://cdn.discordapp.com/attachments/1214595775435120650/1214683355182800896/image.png?ex=65fa0107&is=65e78c07&hm=080376ab58810061da43da43695da65831ce662166e637a87db64d5ef1fa4bd1&",
+        "playerLabel": "Season 1 Epizode 9"
+      },
+      {
+        "badgeColor": "msx-blue",
+        "title": "Epizode 10",
+        "action": "video:https://srv9.filmax.live/videos/series/rickandmorty/rick.and.morty.s01e10.mp4?st=65j8wLgFdetTjd4E8kzjOQ&e=1709418273",
+        "image":"https://cdn.discordapp.com/attachments/1214595775435120650/1214683502113456178/image.png?ex=65fa012a&is=65e78c2a&hm=21f41aaf65af0eae99ee770cf37df58ec746935203a43971867dfa2fa418e020&",
+        "playerLabel": "Season 1 Epizode 10"
+      },
+      {
+        "badgeColor": "msx-blue",
+        "title": "Epizode 11",
+        "action": "video:https://srv9.filmax.live/videos/series/rickandmorty/rick.and.morty.s01e11.mp4?st=65j8wLgFdetTjd4E8kzjOQ&e=1709418273",
+        "image": "https://cdn.discordapp.com/attachments/1214595775435120650/1214683559722483722/image.png?ex=65fa0138&is=65e78c38&hm=5ff4f6c96e9b933df98e366e725dfdcaa80d61032767e9f65936b487912244bb&",
+        "playerLabel": "Season 1 Epizode 11"
+      }
+    ]
+  }
+  
+
+  

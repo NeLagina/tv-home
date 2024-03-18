@@ -12,6 +12,12 @@
             "action": "Error: nieko dar nedariau :(",
             "image": "https://img.icdn.my.id/thumb/w_171/h_257/the-simpsons-season-30-26357.webp",
             "badge": "Coming Soon"
+        },{
+            "badgeColor": "msx-green",
+            "title": "The Thundermans",
+            "action": "content:https://nelagina.github.io/tv-home/msx/serijalai/EN/thethundermans/thethundermans.json",
+            "image": "https://www.imdb.com/title/tt2712516/mediaviewer/rm2276265472/?ref_=tt_ov_i",
+            "badge": "SOON full seasons  "
         },
         {
             "badgeColor": "msx-green",
